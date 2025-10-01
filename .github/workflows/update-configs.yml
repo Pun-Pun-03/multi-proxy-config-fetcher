@@ -44,9 +44,11 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
     
-    - name: Commit and push changes
-      run: |
-        git add configs/proxy_configs.txt
-        git add main
-        git commit -m "Update proxy configs, stats and reports" || echo "No changes to commit"
-        git push
+- name: Commit and push changes
+  run: |
+    git add configs/proxy_configs.txt
+    git add main
+    git commit -m "Update proxy configs, stats and reports" || echo "No changes to commit"
+    git pull --rebase
+    git push
+
