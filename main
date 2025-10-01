@@ -95,19 +95,17 @@
                 "🇨🇦 2 - Trojan - Canada : 443",
                 "🇨🇦 3 - Trojan - Canada : 443",
                 "🇨🇦 4 - Trojan - Canada : 443",
-                "🇨🇷 5 - Trojan - Costa Rica : 443",
-                "🇨🇷 6 - Trojan - Costa Rica : 443",
+                "🇨🇦 5 - Trojan - Canada : 443",
+                "🇨🇦 6 - Trojan - Canada : 443",
                 "🇨🇦 7 - Trojan - Canada : 443",
-                "🇨🇦 8 - Trojan - Canada : 443",
+                "🇨🇷 8 - Trojan - Costa Rica : 443",
                 "🇨🇦 9 - Trojan - Canada : 443",
-                "🇨🇦 1 - VMess - Canada : 2082",
-                "🇩🇪 2 - VMess - Germany : 443",
-                "🇩🇪 3 - VMess - Germany : 443",
-                "🇨🇦 4 - VMess - Canada : 443",
-                "🇺🇸 5 - VMess - United States : 443",
+                "🇩🇪 1 - VMess - Germany : 443",
+                "🇨🇦 2 - VMess - Canada : 443",
+                "🇺🇸 3 - VMess - United States : 443",
+                "🇺🇸 4 - VMess - United States : 443",
+                "🇨🇦 5 - VMess - Canada : 443",
                 "🇺🇸 6 - VMess - United States : 443",
-                "🇨🇦 7 - VMess - Canada : 443",
-                "🇺🇸 8 - VMess - United States : 443",
                 "direct"
             ]
         },
@@ -166,19 +164,17 @@
                 "🇨🇦 2 - Trojan - Canada : 443",
                 "🇨🇦 3 - Trojan - Canada : 443",
                 "🇨🇦 4 - Trojan - Canada : 443",
-                "🇨🇷 5 - Trojan - Costa Rica : 443",
-                "🇨🇷 6 - Trojan - Costa Rica : 443",
+                "🇨🇦 5 - Trojan - Canada : 443",
+                "🇨🇦 6 - Trojan - Canada : 443",
                 "🇨🇦 7 - Trojan - Canada : 443",
-                "🇨🇦 8 - Trojan - Canada : 443",
+                "🇨🇷 8 - Trojan - Costa Rica : 443",
                 "🇨🇦 9 - Trojan - Canada : 443",
-                "🇨🇦 1 - VMess - Canada : 2082",
-                "🇩🇪 2 - VMess - Germany : 443",
-                "🇩🇪 3 - VMess - Germany : 443",
-                "🇨🇦 4 - VMess - Canada : 443",
-                "🇺🇸 5 - VMess - United States : 443",
-                "🇺🇸 6 - VMess - United States : 443",
-                "🇨🇦 7 - VMess - Canada : 443",
-                "🇺🇸 8 - VMess - United States : 443"
+                "🇩🇪 1 - VMess - Germany : 443",
+                "🇨🇦 2 - VMess - Canada : 443",
+                "🇺🇸 3 - VMess - United States : 443",
+                "🇺🇸 4 - VMess - United States : 443",
+                "🇨🇦 5 - VMess - Canada : 443",
+                "🇺🇸 6 - VMess - United States : 443"
             ],
             "url": "https://cp.cloudflare.com/",
             "interval": "10m",
@@ -943,12 +939,12 @@
         {
             "type": "trojan",
             "tag": "🇨🇦 1 - Trojan - Canada : 443",
-            "server": "104.18.221.228",
+            "server": "104.18.252.56",
             "server_port": 443,
             "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "104.18.221.228",
+                "server_name": "104.18.252.56",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -964,12 +960,12 @@
         {
             "type": "trojan",
             "tag": "🇨🇦 2 - Trojan - Canada : 443",
-            "server": "104.18.79.252",
+            "server": "104.18.87.210",
             "server_port": 443,
             "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "104.18.79.252",
+                "server_name": "104.18.87.210",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -985,12 +981,12 @@
         {
             "type": "trojan",
             "tag": "🇨🇦 3 - Trojan - Canada : 443",
-            "server": "104.19.155.27",
+            "server": "104.21.109.51",
             "server_port": 443,
             "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "104.19.155.27",
+                "server_name": "104.21.109.51",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1006,12 +1002,12 @@
         {
             "type": "trojan",
             "tag": "🇨🇦 4 - Trojan - Canada : 443",
-            "server": "188.114.97.25",
+            "server": "104.21.234.229",
             "server_port": 443,
             "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "188.114.97.25",
+                "server_name": "104.21.234.229",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1026,13 +1022,13 @@
         },
         {
             "type": "trojan",
-            "tag": "🇨🇷 5 - Trojan - Costa Rica : 443",
-            "server": "190.93.244.38",
+            "tag": "🇨🇦 5 - Trojan - Canada : 443",
+            "server": "104.27.37.31",
             "server_port": 443,
             "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "190.93.244.38",
+                "server_name": "104.27.37.31",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1047,13 +1043,13 @@
         },
         {
             "type": "trojan",
-            "tag": "🇨🇷 6 - Trojan - Costa Rica : 443",
-            "server": "190.93.246.21",
+            "tag": "🇨🇦 6 - Trojan - Canada : 443",
+            "server": "188.114.97.186",
             "server_port": 443,
             "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "190.93.246.21",
+                "server_name": "188.114.97.186",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1069,12 +1065,12 @@
         {
             "type": "trojan",
             "tag": "🇨🇦 7 - Trojan - Canada : 443",
-            "server": "104.20.19.105",
+            "server": "188.114.97.248",
             "server_port": 443,
-            "password": "auto",
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
+                "server_name": "188.114.97.248",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1085,23 +1081,17 @@
                     "fingerprint": "chrome"
                 }
             },
-            "transport": {
-                "type": "ws",
-                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
-                "headers": {
-                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
-                }
-            }
+            "transport": {}
         },
         {
             "type": "trojan",
-            "tag": "🇨🇦 8 - Trojan - Canada : 443",
-            "server": "104.20.19.105",
+            "tag": "🇨🇷 8 - Trojan - Costa Rica : 443",
+            "server": "190.93.244.153",
             "server_port": 443,
-            "password": "auto",
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
+                "server_name": "190.93.244.153",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1112,23 +1102,17 @@
                     "fingerprint": "chrome"
                 }
             },
-            "transport": {
-                "type": "ws",
-                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
-                "headers": {
-                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
-                }
-            }
+            "transport": {}
         },
         {
             "type": "trojan",
             "tag": "🇨🇦 9 - Trojan - Canada : 443",
-            "server": "creativecommons.org",
+            "server": "104.20.19.105",
             "server_port": 443,
-            "password": "biOrJGlcfX",
+            "password": "auto",
             "tls": {
                 "enabled": true,
-                "server_name": "ghasem.kotlet.org",
+                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1141,63 +1125,15 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "/kos-madaret-khamneii",
+                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
                 "headers": {
-                    "Host": "ghasem.kotlet.org"
+                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
                 }
             }
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 1 - VMess - Canada : 2082",
-            "server": "104.19.21.230",
-            "server_port": 2082,
-            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "github.com/Alvin9999",
-                "headers": {
-                    "Host": "ip3.6929198.xyz"
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇩🇪 2 - VMess - Germany : 443",
-            "server": "57.129.64.157",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "linkvws",
-                "headers": {
-                    "Host": "lammaland.org"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇩🇪 3 - VMess - Germany : 443",
+            "tag": "🇩🇪 1 - VMess - Germany : 443",
             "server": "57.129.28.215",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1226,7 +1162,7 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 4 - VMess - Canada : 443",
+            "tag": "🇨🇦 2 - VMess - Canada : 443",
             "server": "148.113.153.112",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1255,7 +1191,7 @@
         },
         {
             "type": "vmess",
-            "tag": "🇺🇸 5 - VMess - United States : 443",
+            "tag": "🇺🇸 3 - VMess - United States : 443",
             "server": "15.204.103.7",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1284,7 +1220,7 @@
         },
         {
             "type": "vmess",
-            "tag": "🇺🇸 6 - VMess - United States : 443",
+            "tag": "🇺🇸 4 - VMess - United States : 443",
             "server": "15.204.103.7",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1313,7 +1249,7 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 7 - VMess - Canada : 443",
+            "tag": "🇨🇦 5 - VMess - Canada : 443",
             "server": "15.235.83.228",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1342,7 +1278,7 @@
         },
         {
             "type": "vmess",
-            "tag": "🇺🇸 8 - VMess - United States : 443",
+            "tag": "🇺🇸 6 - VMess - United States : 443",
             "server": "209.126.84.189",
             "server_port": 443,
             "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7",
