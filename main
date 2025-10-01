@@ -59,7 +59,7 @@
                 "🇺🇸 13 - VLESS - United States : 2053",
                 "🇨🇦 14 - VLESS - Canada : 80",
                 "🇨🇿 15 - VLESS - Czechia : 12393",
-                "🇵🇱 16 - VLESS - Poland : 443",
+                "🇫🇷 16 - VLESS - France : 443",
                 "🇫🇷 17 - VLESS - France : 8880",
                 "🇫🇷 18 - VLESS - France : 8880",
                 "🇫🇷 19 - VLESS - France : 8880",
@@ -91,120 +91,23 @@
                 "🇮🇹 45 - VLESS - Italy : 443",
                 "🇨🇦 46 - VLESS - Canada : 10004",
                 "🇨🇦 47 - VLESS - Canada : 443",
-                "🇨🇦 1 - VMess - Canada : 8443",
-                "🇨🇦 2 - VMess - Canada : 8443",
-                "🇨🇦 3 - VMess - Canada : 8443",
-                "🇺🇸 4 - VMess - United States : 8443",
-                "🇺🇸 5 - VMess - United States : 8443",
-                "🇺🇸 6 - VMess - United States : 8443",
-                "🇺🇸 7 - VMess - United States : 8443",
-                "🇺🇸 8 - VMess - United States : 8443",
-                "🇨🇦 9 - VMess - Canada : 8443",
-                "🇨🇦 10 - VMess - Canada : 8443",
-                "🇨🇦 11 - VMess - Canada : 8443",
-                "🇨🇦 12 - VMess - Canada : 8443",
-                "🇨🇦 13 - VMess - Canada : 8443",
-                "🇨🇦 14 - VMess - Canada : 8443",
-                "🇨🇦 15 - VMess - Canada : 8443",
-                "🇨🇦 16 - VMess - Canada : 8443",
-                "🇨🇦 17 - VMess - Canada : 8443",
-                "🇨🇦 18 - VMess - Canada : 8443",
-                "🇨🇦 19 - VMess - Canada : 8443",
-                "🇨🇦 20 - VMess - Canada : 8443",
-                "🇨🇦 21 - VMess - Canada : 8443",
-                "🇨🇦 22 - VMess - Canada : 8443",
-                "🇨🇦 23 - VMess - Canada : 8443",
-                "🇨🇦 24 - VMess - Canada : 8443",
-                "🇨🇦 25 - VMess - Canada : 8443",
-                "🇨🇦 26 - VMess - Canada : 8443",
-                "🇨🇦 27 - VMess - Canada : 8443",
-                "🇨🇦 28 - VMess - Canada : 8443",
-                "🇨🇦 29 - VMess - Canada : 8443",
-                "🇨🇦 30 - VMess - Canada : 8443",
-                "🇨🇦 31 - VMess - Canada : 8443",
-                "🇨🇦 32 - VMess - Canada : 8443",
-                "🇨🇦 33 - VMess - Canada : 8443",
-                "🇨🇦 34 - VMess - Canada : 8443",
-                "🇨🇦 35 - VMess - Canada : 8443",
-                "🇨🇦 36 - VMess - Canada : 8443",
-                "🇨🇦 37 - VMess - Canada : 8443",
-                "🇨🇦 38 - VMess - Canada : 8443",
-                "🇨🇦 39 - VMess - Canada : 8443",
-                "🇨🇦 40 - VMess - Canada : 8443",
-                "🇨🇦 41 - VMess - Canada : 8443",
-                "🇨🇦 42 - VMess - Canada : 8443",
-                "🇨🇦 43 - VMess - Canada : 8443",
-                "🇨🇦 44 - VMess - Canada : 8443",
-                "🇨🇦 45 - VMess - Canada : 8443",
-                "🇨🇦 46 - VMess - Canada : 8443",
-                "🇨🇦 47 - VMess - Canada : 8443",
-                "🇨🇦 48 - VMess - Canada : 8443",
-                "🇨🇦 49 - VMess - Canada : 8443",
-                "🇨🇦 50 - VMess - Canada : 8443",
-                "🇨🇦 51 - VMess - Canada : 8443",
-                "🇨🇦 52 - VMess - Canada : 8443",
-                "🇨🇦 53 - VMess - Canada : 8443",
-                "🇺🇸 54 - VMess - United States : 8443",
-                "🇺🇸 55 - VMess - United States : 8443",
-                "🇺🇸 56 - VMess - United States : 8443",
-                "🇺🇸 57 - VMess - United States : 8443",
-                "🇺🇸 58 - VMess - United States : 8443",
-                "🇺🇸 59 - VMess - United States : 8443",
-                "🇺🇸 60 - VMess - United States : 8443",
-                "🇺🇸 61 - VMess - United States : 8443",
-                "🇺🇸 62 - VMess - United States : 8443",
-                "🇨🇦 63 - VMess - Canada : 8443",
-                "🇨🇦 64 - VMess - Canada : 8443",
-                "🇨🇦 65 - VMess - Canada : 8443",
-                "🇨🇦 66 - VMess - Canada : 8443",
-                "🇨🇦 67 - VMess - Canada : 8443",
-                "🇨🇦 68 - VMess - Canada : 8443",
-                "🇨🇦 69 - VMess - Canada : 8443",
-                "🇨🇦 70 - VMess - Canada : 8443",
-                "🇨🇦 71 - VMess - Canada : 8443",
-                "🇨🇦 72 - VMess - Canada : 8443",
-                "🇨🇦 73 - VMess - Canada : 8443",
-                "🇨🇦 74 - VMess - Canada : 8443",
-                "🇨🇦 75 - VMess - Canada : 8443",
-                "🇨🇦 76 - VMess - Canada : 8443",
-                "🇨🇦 77 - VMess - Canada : 8443",
-                "🇨🇦 78 - VMess - Canada : 8443",
-                "🇨🇦 79 - VMess - Canada : 8443",
-                "🇨🇦 80 - VMess - Canada : 8443",
-                "🇨🇦 81 - VMess - Canada : 8443",
-                "🇨🇦 82 - VMess - Canada : 8443",
-                "🇨🇦 83 - VMess - Canada : 8443",
-                "🇨🇦 84 - VMess - Canada : 8443",
-                "🇨🇦 85 - VMess - Canada : 8443",
-                "🇨🇦 86 - VMess - Canada : 8443",
-                "🇨🇦 87 - VMess - Canada : 8443",
-                "🇨🇦 88 - VMess - Canada : 8443",
-                "🇨🇦 89 - VMess - Canada : 8443",
-                "🇨🇦 90 - VMess - Canada : 8443",
-                "🇨🇦 91 - VMess - Canada : 8443",
-                "🇨🇦 92 - VMess - Canada : 8443",
-                "🇨🇦 93 - VMess - Canada : 8443",
-                "🇨🇦 94 - VMess - Canada : 8443",
-                "🇨🇦 95 - VMess - Canada : 8443",
-                "🇨🇦 96 - VMess - Canada : 8443",
-                "🇨🇦 97 - VMess - Canada : 8443",
-                "🇨🇦 98 - VMess - Canada : 8443",
-                "🇨🇦 99 - VMess - Canada : 8443",
-                "🇨🇦 100 - VMess - Canada : 8443",
-                "🇨🇦 101 - VMess - Canada : 2096",
-                "🇨🇦 102 - VMess - Canada : 2096",
-                "🇨🇦 103 - VMess - Canada : 2096",
-                "🇨🇦 104 - VMess - Canada : 2096",
-                "🇨🇦 105 - VMess - Canada : 2096",
-                "🇨🇦 106 - VMess - Canada : 2096",
-                "🇨🇦 107 - VMess - Canada : 2096",
-                "🇺🇸 108 - VMess - United States : 2096",
-                "🇺🇸 109 - VMess - United States : 2096",
-                "🇺🇸 110 - VMess - United States : 2096",
-                "🇺🇸 111 - VMess - United States : 2096",
-                "🇺🇸 112 - VMess - United States : 2096",
-                "🇺🇸 113 - VMess - United States : 2096",
-                "🇺🇸 114 - VMess - United States : 2096",
+                "🇨🇦 1 - Trojan - Canada : 443",
+                "🇨🇦 2 - Trojan - Canada : 443",
+                "🇨🇦 3 - Trojan - Canada : 443",
+                "🇨🇦 4 - Trojan - Canada : 443",
+                "🇨🇷 5 - Trojan - Costa Rica : 443",
+                "🇨🇷 6 - Trojan - Costa Rica : 443",
+                "🇨🇦 7 - Trojan - Canada : 443",
+                "🇨🇦 8 - Trojan - Canada : 443",
+                "🇨🇦 9 - Trojan - Canada : 443",
+                "🇨🇦 1 - VMess - Canada : 2082",
+                "🇩🇪 2 - VMess - Germany : 443",
+                "🇩🇪 3 - VMess - Germany : 443",
+                "🇨🇦 4 - VMess - Canada : 443",
+                "🇺🇸 5 - VMess - United States : 443",
+                "🇺🇸 6 - VMess - United States : 443",
+                "🇨🇦 7 - VMess - Canada : 443",
+                "🇺🇸 8 - VMess - United States : 443",
                 "direct"
             ]
         },
@@ -227,7 +130,7 @@
                 "🇺🇸 13 - VLESS - United States : 2053",
                 "🇨🇦 14 - VLESS - Canada : 80",
                 "🇨🇿 15 - VLESS - Czechia : 12393",
-                "🇵🇱 16 - VLESS - Poland : 443",
+                "🇫🇷 16 - VLESS - France : 443",
                 "🇫🇷 17 - VLESS - France : 8880",
                 "🇫🇷 18 - VLESS - France : 8880",
                 "🇫🇷 19 - VLESS - France : 8880",
@@ -259,120 +162,23 @@
                 "🇮🇹 45 - VLESS - Italy : 443",
                 "🇨🇦 46 - VLESS - Canada : 10004",
                 "🇨🇦 47 - VLESS - Canada : 443",
-                "🇨🇦 1 - VMess - Canada : 8443",
-                "🇨🇦 2 - VMess - Canada : 8443",
-                "🇨🇦 3 - VMess - Canada : 8443",
-                "🇺🇸 4 - VMess - United States : 8443",
-                "🇺🇸 5 - VMess - United States : 8443",
-                "🇺🇸 6 - VMess - United States : 8443",
-                "🇺🇸 7 - VMess - United States : 8443",
-                "🇺🇸 8 - VMess - United States : 8443",
-                "🇨🇦 9 - VMess - Canada : 8443",
-                "🇨🇦 10 - VMess - Canada : 8443",
-                "🇨🇦 11 - VMess - Canada : 8443",
-                "🇨🇦 12 - VMess - Canada : 8443",
-                "🇨🇦 13 - VMess - Canada : 8443",
-                "🇨🇦 14 - VMess - Canada : 8443",
-                "🇨🇦 15 - VMess - Canada : 8443",
-                "🇨🇦 16 - VMess - Canada : 8443",
-                "🇨🇦 17 - VMess - Canada : 8443",
-                "🇨🇦 18 - VMess - Canada : 8443",
-                "🇨🇦 19 - VMess - Canada : 8443",
-                "🇨🇦 20 - VMess - Canada : 8443",
-                "🇨🇦 21 - VMess - Canada : 8443",
-                "🇨🇦 22 - VMess - Canada : 8443",
-                "🇨🇦 23 - VMess - Canada : 8443",
-                "🇨🇦 24 - VMess - Canada : 8443",
-                "🇨🇦 25 - VMess - Canada : 8443",
-                "🇨🇦 26 - VMess - Canada : 8443",
-                "🇨🇦 27 - VMess - Canada : 8443",
-                "🇨🇦 28 - VMess - Canada : 8443",
-                "🇨🇦 29 - VMess - Canada : 8443",
-                "🇨🇦 30 - VMess - Canada : 8443",
-                "🇨🇦 31 - VMess - Canada : 8443",
-                "🇨🇦 32 - VMess - Canada : 8443",
-                "🇨🇦 33 - VMess - Canada : 8443",
-                "🇨🇦 34 - VMess - Canada : 8443",
-                "🇨🇦 35 - VMess - Canada : 8443",
-                "🇨🇦 36 - VMess - Canada : 8443",
-                "🇨🇦 37 - VMess - Canada : 8443",
-                "🇨🇦 38 - VMess - Canada : 8443",
-                "🇨🇦 39 - VMess - Canada : 8443",
-                "🇨🇦 40 - VMess - Canada : 8443",
-                "🇨🇦 41 - VMess - Canada : 8443",
-                "🇨🇦 42 - VMess - Canada : 8443",
-                "🇨🇦 43 - VMess - Canada : 8443",
-                "🇨🇦 44 - VMess - Canada : 8443",
-                "🇨🇦 45 - VMess - Canada : 8443",
-                "🇨🇦 46 - VMess - Canada : 8443",
-                "🇨🇦 47 - VMess - Canada : 8443",
-                "🇨🇦 48 - VMess - Canada : 8443",
-                "🇨🇦 49 - VMess - Canada : 8443",
-                "🇨🇦 50 - VMess - Canada : 8443",
-                "🇨🇦 51 - VMess - Canada : 8443",
-                "🇨🇦 52 - VMess - Canada : 8443",
-                "🇨🇦 53 - VMess - Canada : 8443",
-                "🇺🇸 54 - VMess - United States : 8443",
-                "🇺🇸 55 - VMess - United States : 8443",
-                "🇺🇸 56 - VMess - United States : 8443",
-                "🇺🇸 57 - VMess - United States : 8443",
-                "🇺🇸 58 - VMess - United States : 8443",
-                "🇺🇸 59 - VMess - United States : 8443",
-                "🇺🇸 60 - VMess - United States : 8443",
-                "🇺🇸 61 - VMess - United States : 8443",
-                "🇺🇸 62 - VMess - United States : 8443",
-                "🇨🇦 63 - VMess - Canada : 8443",
-                "🇨🇦 64 - VMess - Canada : 8443",
-                "🇨🇦 65 - VMess - Canada : 8443",
-                "🇨🇦 66 - VMess - Canada : 8443",
-                "🇨🇦 67 - VMess - Canada : 8443",
-                "🇨🇦 68 - VMess - Canada : 8443",
-                "🇨🇦 69 - VMess - Canada : 8443",
-                "🇨🇦 70 - VMess - Canada : 8443",
-                "🇨🇦 71 - VMess - Canada : 8443",
-                "🇨🇦 72 - VMess - Canada : 8443",
-                "🇨🇦 73 - VMess - Canada : 8443",
-                "🇨🇦 74 - VMess - Canada : 8443",
-                "🇨🇦 75 - VMess - Canada : 8443",
-                "🇨🇦 76 - VMess - Canada : 8443",
-                "🇨🇦 77 - VMess - Canada : 8443",
-                "🇨🇦 78 - VMess - Canada : 8443",
-                "🇨🇦 79 - VMess - Canada : 8443",
-                "🇨🇦 80 - VMess - Canada : 8443",
-                "🇨🇦 81 - VMess - Canada : 8443",
-                "🇨🇦 82 - VMess - Canada : 8443",
-                "🇨🇦 83 - VMess - Canada : 8443",
-                "🇨🇦 84 - VMess - Canada : 8443",
-                "🇨🇦 85 - VMess - Canada : 8443",
-                "🇨🇦 86 - VMess - Canada : 8443",
-                "🇨🇦 87 - VMess - Canada : 8443",
-                "🇨🇦 88 - VMess - Canada : 8443",
-                "🇨🇦 89 - VMess - Canada : 8443",
-                "🇨🇦 90 - VMess - Canada : 8443",
-                "🇨🇦 91 - VMess - Canada : 8443",
-                "🇨🇦 92 - VMess - Canada : 8443",
-                "🇨🇦 93 - VMess - Canada : 8443",
-                "🇨🇦 94 - VMess - Canada : 8443",
-                "🇨🇦 95 - VMess - Canada : 8443",
-                "🇨🇦 96 - VMess - Canada : 8443",
-                "🇨🇦 97 - VMess - Canada : 8443",
-                "🇨🇦 98 - VMess - Canada : 8443",
-                "🇨🇦 99 - VMess - Canada : 8443",
-                "🇨🇦 100 - VMess - Canada : 8443",
-                "🇨🇦 101 - VMess - Canada : 2096",
-                "🇨🇦 102 - VMess - Canada : 2096",
-                "🇨🇦 103 - VMess - Canada : 2096",
-                "🇨🇦 104 - VMess - Canada : 2096",
-                "🇨🇦 105 - VMess - Canada : 2096",
-                "🇨🇦 106 - VMess - Canada : 2096",
-                "🇨🇦 107 - VMess - Canada : 2096",
-                "🇺🇸 108 - VMess - United States : 2096",
-                "🇺🇸 109 - VMess - United States : 2096",
-                "🇺🇸 110 - VMess - United States : 2096",
-                "🇺🇸 111 - VMess - United States : 2096",
-                "🇺🇸 112 - VMess - United States : 2096",
-                "🇺🇸 113 - VMess - United States : 2096",
-                "🇺🇸 114 - VMess - United States : 2096"
+                "🇨🇦 1 - Trojan - Canada : 443",
+                "🇨🇦 2 - Trojan - Canada : 443",
+                "🇨🇦 3 - Trojan - Canada : 443",
+                "🇨🇦 4 - Trojan - Canada : 443",
+                "🇨🇷 5 - Trojan - Costa Rica : 443",
+                "🇨🇷 6 - Trojan - Costa Rica : 443",
+                "🇨🇦 7 - Trojan - Canada : 443",
+                "🇨🇦 8 - Trojan - Canada : 443",
+                "🇨🇦 9 - Trojan - Canada : 443",
+                "🇨🇦 1 - VMess - Canada : 2082",
+                "🇩🇪 2 - VMess - Germany : 443",
+                "🇩🇪 3 - VMess - Germany : 443",
+                "🇨🇦 4 - VMess - Canada : 443",
+                "🇺🇸 5 - VMess - United States : 443",
+                "🇺🇸 6 - VMess - United States : 443",
+                "🇨🇦 7 - VMess - Canada : 443",
+                "🇺🇸 8 - VMess - United States : 443"
             ],
             "url": "https://cp.cloudflare.com/",
             "interval": "10m",
@@ -688,7 +494,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇵🇱 16 - VLESS - Poland : 443",
+            "tag": "🇫🇷 16 - VLESS - France : 443",
             "server": "xn--ktff-jt6hr36l.tencentapp.cn",
             "server_port": 443,
             "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
@@ -1135,23 +941,14 @@
             }
         },
         {
-            "type": "vmess",
-            "tag": "🇨🇦 1 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "3b9da26c-cfb5-4b15-9423-ece2b2ee2390",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇦 1 - Trojan - Canada : 443",
+            "server": "104.18.221.228",
+            "server_port": 443,
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "104.18.221.228",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1160,56 +957,19 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 2 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "3ba63ceb-10f8-4f33-9aed-59628bc8badb",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
                 }
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "transport": {}
         },
         {
-            "type": "vmess",
-            "tag": "🇨🇦 3 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "3fa6b880-0fe9-482a-9fe3-790bbce50874",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇦 2 - Trojan - Canada : 443",
+            "server": "104.18.79.252",
+            "server_port": 443,
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "104.18.79.252",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1218,56 +978,19 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 4 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "02ec416d-76a8-4b4a-a346-97f8493eb004",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
                 }
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "transport": {}
         },
         {
-            "type": "vmess",
-            "tag": "🇺🇸 5 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "0844d68c-f264-40a5-884b-53d2ddad6eb2",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇦 3 - Trojan - Canada : 443",
+            "server": "104.19.155.27",
+            "server_port": 443,
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "104.19.155.27",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1276,56 +999,19 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 6 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "09011e11-070f-4259-b991-b2cd837b8190",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
                 }
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "transport": {}
         },
         {
-            "type": "vmess",
-            "tag": "🇺🇸 7 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "0a4acb52-22d7-42fa-89d1-23748dbc3c21",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇦 4 - Trojan - Canada : 443",
+            "server": "188.114.97.25",
+            "server_port": 443,
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "188.114.97.25",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1334,56 +1020,19 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 8 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "1077ba3c-2385-42fa-9ca2-b2456fc62675",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
                 }
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "transport": {}
         },
         {
-            "type": "vmess",
-            "tag": "🇨🇦 9 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "102e588e-2583-4d50-9141-2584b52f716b",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇷 5 - Trojan - Costa Rica : 443",
+            "server": "190.93.244.38",
+            "server_port": 443,
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "190.93.244.38",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1393,55 +1042,18 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 10 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "12402e60-5851-4d6c-bd6c-6b118d913340",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
+            "transport": {}
         },
         {
-            "type": "vmess",
-            "tag": "🇨🇦 11 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "12bafc81-c452-4586-8550-ce09a28739b8",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇷 6 - Trojan - Costa Rica : 443",
+            "server": "190.93.246.21",
+            "server_port": 443,
+            "password": "NISHIKUITAN222",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "190.93.246.21",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1451,26 +1063,18 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
+            },
+            "transport": {}
         },
         {
-            "type": "vmess",
-            "tag": "🇨🇦 12 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "146a3bbf-729b-4c76-8611-2fc8ca26286f",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇦 7 - Trojan - Canada : 443",
+            "server": "104.20.19.105",
+            "server_port": 443,
+            "password": "auto",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1480,55 +1084,24 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 13 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "1aa34f78-5efc-486a-929c-0d6d34a9a0c5",
-            "security": "auto",
-            "alter_id": 0,
+            },
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
                 }
             }
         },
         {
-            "type": "vmess",
-            "tag": "🇨🇦 14 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "1c68c296-9a30-4c87-93ca-fc66acaa805a",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇦 8 - Trojan - Canada : 443",
+            "server": "104.20.19.105",
+            "server_port": 443,
+            "password": "auto",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "b96ef9ae.trojanfree-76s.pages.dev",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1538,55 +1111,24 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 15 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "1e00d892-fba9-4595-b0ee-fdc6bc26dcf0",
-            "security": "auto",
-            "alter_id": 0,
+            },
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "/b96ef9ae.trojanfree-76s.pages.dev/",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+                    "Host": "b96ef9ae.trojanfree-76s.pages.dev"
                 }
             }
         },
         {
-            "type": "vmess",
-            "tag": "🇨🇦 16 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "20d0a663-416a-4c84-8728-6a558b4b2689",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
+            "type": "trojan",
+            "tag": "🇨🇦 9 - Trojan - Canada : 443",
+            "server": "creativecommons.org",
+            "server_port": 443,
+            "password": "biOrJGlcfX",
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "ghasem.kotlet.org",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1596,84 +1138,52 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 17 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "20f1a0f9-f9b3-4295-881c-ac0ebda0d7d1",
-            "security": "auto",
-            "alter_id": 0,
+            },
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "/kos-madaret-khamneii",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+                    "Host": "ghasem.kotlet.org"
                 }
             }
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 18 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "2161b048-ccac-4827-8563-dad383b4263d",
+            "tag": "🇨🇦 1 - VMess - Canada : 2082",
+            "server": "104.19.21.230",
+            "server_port": 2082,
+            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "github.com/Alvin9999",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
+                    "Host": "ip3.6929198.xyz"
                 }
             },
             "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "enabled": false
             }
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 19 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "247f9d70-93fb-4fe0-a3aa-6bb7e78687da",
+            "tag": "🇩🇪 2 - VMess - Germany : 443",
+            "server": "57.129.64.157",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "linkvws",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
+                    "Host": "lammaland.org"
                 }
             },
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1687,22 +1197,22 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 20 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "275e74ce-1a89-4d79-9f3e-e0a80bd39ed6",
+            "tag": "🇩🇪 3 - VMess - Germany : 443",
+            "server": "57.129.28.215",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "linkvws",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
+                    "Host": "serkat.org"
                 }
             },
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "serkat.org",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1716,22 +1226,22 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 21 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "2850f9d4-ef1f-4b30-b015-a8d4b4ae26e4",
+            "tag": "🇨🇦 4 - VMess - Canada : 443",
+            "server": "148.113.153.112",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "linkvws",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
+                    "Host": "serkat.org"
                 }
             },
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "serkat.org",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1745,22 +1255,22 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 22 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "28e53c45-7351-463d-9a46-5b5180d22d47",
+            "tag": "🇺🇸 5 - VMess - United States : 443",
+            "server": "15.204.103.7",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "linkvws",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
+                    "Host": "lammaland.org"
                 }
             },
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "lammaland.org",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1774,22 +1284,22 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 23 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "2fc35389-3b66-4b25-8fe5-5080b38d9542",
+            "tag": "🇺🇸 6 - VMess - United States : 443",
+            "server": "15.204.103.7",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "linkvws",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
+                    "Host": "lammaland.org"
                 }
             },
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "lammaland.org",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1803,22 +1313,22 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 24 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "336c6fe6-7027-40d7-8877-38c423c1e67d",
+            "tag": "🇨🇦 7 - VMess - Canada : 443",
+            "server": "15.235.83.228",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "linkvws",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
+                    "Host": "lammaland.org"
                 }
             },
             "tls": {
                 "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
+                "server_name": "lammaland.org",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1832,2528 +1342,21 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 25 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "37413b81-41bf-4ef7-a435-6612b46b90ac",
+            "tag": "🇺🇸 8 - VMess - United States : 443",
+            "server": "209.126.84.189",
+            "server_port": 443,
+            "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/🆔@M3HDIO1",
+                "path": "/vmessws",
                 "headers": {
-                    "Host": "info.andishehnegariran.ir"
+                    "Host": "209.126.84.189"
                 }
             },
             "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 26 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "39012ffc-2809-4407-855c-bf92f5ead153",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 27 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "7c4768eb-c09c-4402-93af-e9206760b499",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 28 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "448ab130-1c6d-409d-9f90-965ae8a9a357",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 29 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "44189c9c-5989-47ec-80b0-0bf20544859e",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 30 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "4702607e-bc86-403d-8752-297f76d9772d",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 31 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "4a9f8a16-c6f5-4c74-96b2-e9905e0609ad",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 32 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "5406d9a0-645d-464f-bdc1-6b77de878d29",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 33 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "58e4f3cc-6b56-4a2c-b320-0ec5e90d249d",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 34 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "5964bb55-20b2-4ac6-8272-e3be3a30de37",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 35 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "5aebccad-b438-49e9-98c6-80e24f70c1b5",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 36 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "5d6d33e1-48e2-4ec7-b652-2f5d2fce93c4",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 37 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "5d6e2ff4-f964-42ea-8eef-0237a37ae578",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 38 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "662806ec-6f76-4092-aee5-89bcda85693a",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 39 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "69e8029a-5762-43ac-82a3-ecbf6c1db7fe",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 40 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "6dfcc329-cb35-46c6-ad06-ffb8f63d8b7c",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 41 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "704a99af-4527-4146-b3b4-e738d86ef754",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 42 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "724a7753-a910-4c39-9acc-56d088b1217a",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 43 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "79b04c80-c080-4cc9-aa3b-d7b658dc504c",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 44 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "801d5542-9000-4c00-a398-843921742dde",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 45 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "80b646bf-5b7b-4085-8903-1532d7a5e192",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 46 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "866f9ce5-f5ea-4caf-ab66-96ba8f272304",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 47 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "8bf81286-2d3b-46c4-b0ff-44c1b9ceaf81",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 48 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "8ca8ce37-063e-44cc-b5e7-43477c84849f",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 49 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "90537b1b-4c2f-40cf-9c24-7771b152e282",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 50 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "90d44f5d-8dbc-4ac4-9a97-bbfdefd12a4d",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 51 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "912e9560-13f3-4732-a39e-080cf65aa6a6",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 52 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "93f4bd87-6b87-47ae-8a01-e31c62a8566f",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 53 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "9440c5fe-6109-4bca-94ad-f0cb2000d13d",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 54 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "996b9ec2-6f60-40d5-9a17-a84788904b2f",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 55 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "9f2897d7-8809-4ee7-9c14-ed17991fda83",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 56 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "cbfe5700-a7b5-460c-99c5-a221a0f91bee",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 57 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "cc6fb37b-e670-4445-8b42-66756d6c2ef4",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 58 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "cd990f59-cafe-4f8b-bd2f-3be9e974a354",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 59 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "cfc966c1-5de2-463c-abbc-4f6b675b7299",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 60 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "a05c924c-9517-4a85-8702-5796d579fcff",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 61 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "a00cf1a7-f8bd-4350-8ce0-010debd84aae",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 62 - VMess - United States : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "a0db6c5f-0944-4e74-b3e9-5f468f3a32e8",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 63 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "a13c36e5-69b5-4905-88ef-f5fc4979f174",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 64 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "a2328128-4798-463d-b261-6590ea31cbf3",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 65 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "a35afecb-ccfd-427a-9593-cb2d557239e6",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 66 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "a7587597-45c1-4e6d-a96d-bc3c94e55fcb",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 67 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "a734303a-7cdb-47bb-a10e-776b9d3c6bd3",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 68 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "abae727e-83a2-4dff-b837-6dde6012f26a",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 69 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "af797f24-2126-4530-815c-674a8495bcff",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 70 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "b058932c-0de6-4510-b4de-54ad06fd947c",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 71 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "b865aff4-a004-4d2b-ae23-ed67e55ac63b",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 72 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "bab0dbb3-29a7-405b-97f3-36c21c535e5b",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 73 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "be66593c-2847-4244-b4ce-36e825978d66",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 74 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "c06ac20c-26c0-46e0-95bc-af14b4462451",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 75 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "c0f3ec6d-93eb-4bf4-8085-6952a3cc4513",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 76 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "c8b4f40a-4295-45db-bacb-0e5d6e194081",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 77 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "c9e13dbe-797e-4587-87cf-1743fd007572",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 78 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "d273a983-099a-48b7-80d8-a9691afbd089",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 79 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "d4035b70-400c-454b-b5fa-9bea16beceae",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 80 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "d568ac7d-2a81-4704-b21f-0c98588480de",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 81 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "d643922a-3c18-423c-ba10-6e5121ce2d7f",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 82 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "d7a44e16-cfb5-41b8-95f8-f95280c9307d",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 83 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "da110c02-4561-4aba-8d86-85568a3d92f6",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 84 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "dc70f800-fe37-4493-a2f1-7551fe84d880",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 85 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "de6d88b0-340a-4355-ae51-208270c838ee",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 86 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "df5f115b-fae3-4eef-b171-f278579f9685",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 87 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "e32e404a-72d3-431a-9ab8-5128f23f5c8b",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 88 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "e41b8c58-a75e-4e7e-8f48-b4cf71504118",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 89 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "e6bdd084-c4e9-43f8-908e-3ec00c3acced",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 90 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "e975d6e3-3e3d-4cdb-b387-444f132ad022",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 91 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "ed681f2a-67a9-47ab-a799-4dd23577c228",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 92 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "ed3486ac-c11f-417c-beaf-8151d424292a",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 93 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "edae0daa-389b-4f67-9af4-05ee051fdb92",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 94 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "eef92ae1-3244-459f-8a51-88fedc7243d4",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 95 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "f11fba4b-8b86-481c-94b7-6a1299fc55b8",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 96 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "f3778cd3-a76f-431c-8cac-75d31f719be4",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 97 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "f6619cfc-755f-499f-93b2-7ac98c809972",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 98 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "f6a61de5-28c8-4c2e-8a1e-20edbeaf956e",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 99 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "f8147984-c094-4c20-8bf3-254507596183",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 100 - VMess - Canada : 8443",
-            "server": "info.andishehnegariran.ir",
-            "server_port": 8443,
-            "uuid": "fffde25e-7e17-48dc-a716-3af97691b2cf",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/🆔@M3HDIO1",
-                "headers": {
-                    "Host": "info.andishehnegariran.ir"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "info.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 101 - VMess - Canada : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "43db3abd-a653-412c-89ef-2c03544fe78a",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 102 - VMess - Canada : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "4009239a-76ee-4bf0-93e1-c033dda4b464",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 103 - VMess - Canada : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "405d8a0b-6676-4360-954c-4d8f9fdeda8f",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 104 - VMess - Canada : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "4120850e-653f-41b6-8bff-1c5b1f8970ea",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 105 - VMess - Canada : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "47a69907-790a-460b-bb97-2bfc4be5b710",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 106 - VMess - Canada : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "472cb4f9-0364-4269-b9ce-cdfe5dc687ce",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 107 - VMess - Canada : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "4aa2426a-48c6-4468-8213-9ba6d12ab056",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 108 - VMess - United States : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "4ea3e518-5732-46e4-9e8e-ff2f262a0d44",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 109 - VMess - United States : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "4f1f18d3-e597-4e48-9d99-55078da66ee9",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 110 - VMess - United States : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "53b21f2c-3d2d-43d6-8e5d-ede8d7916be9",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 111 - VMess - United States : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "55d5cc7f-164d-4588-9a1a-4d9b4c9a4780",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 112 - VMess - United States : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "55f5e46e-39af-492b-a52f-db62eac84afb",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 113 - VMess - United States : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "56921849-824a-4b0a-b84c-47f82346cd1c",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 114 - VMess - United States : 2096",
-            "server": "office.andishehnegariran.ir",
-            "server_port": 2096,
-            "uuid": "58b60acd-b06b-4723-bcca-0d15cdaa7cb5",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": true,
-                "server_name": "office.andishehnegariran.ir",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "enabled": false
             }
         },
         {
