@@ -4,6 +4,9 @@ import json
 import logging
 from typing import Optional, Tuple, List
 from urllib.parse import unquote, urlparse
+logger = logging.getLogger(__name__)
+
+SUPPORTED_PROTOCOLS = ["ss", "vmess", "vless", "trojan"]
 
 class ConfigValidator:
     @staticmethod
@@ -179,11 +182,8 @@ class ConfigValidator:
         return any(config.startswith(p) for p in protocols)
 
     @classmethod
-logger = logging.getLogger(__name__)
 
-SUPPORTED_PROTOCOLS = ["ss", "vmess", "vless", "trojan"]
-
-def validate_protocol_config(config: str) -> bool:
+    def validate_protocol_config(config: str) -> bool:
     try:
         parsed = urlparse(config)
 
