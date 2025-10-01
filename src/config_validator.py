@@ -1,6 +1,7 @@
 import re
 import base64
 import json
+import logging
 from typing import Optional, Tuple, List
 from urllib.parse import unquote, urlparse
 
@@ -178,24 +179,44 @@ class ConfigValidator:
         return any(config.startswith(p) for p in protocols)
 
     @classmethod
-    def validate_protocol_config(cls, config: str, protocol: str) -> bool:
-        try:
-            if protocol in ['vmess://', 'vless://', 'ss://', 'tuic://']:
-                if protocol == 'vmess://':
-                    return cls.is_vmess_config(config)
-                if protocol == 'tuic://':
-                    return cls.is_tuic_config(config)
-                base64_part = config[len(protocol):]
-                decoded_url = unquote(base64_part)
-                if cls.is_base64(decoded_url) or cls.is_base64(base64_part):
-                    return True
-                if cls.decode_base64_url(base64_part) or cls.decode_base64_url(decoded_url):
-                    return True
-            elif protocol in ['trojan://', 'hysteria2://', 'hy2://', 'wireguard://']:
-                parsed = urlparse(config)
-                return bool(parsed.netloc and '@' in parsed.netloc)
-            elif protocol == 'ssconf://':
-                return True
-            return False
-        except:
-            return False
+logger = logging.getLogger(__name__)
+
+SUPPORTED_PROTOCOLS = ["ss", "vmess", "vless", "trojan"]
+
+def validate_protocol_config(config: str) -> bool:
+    try:
+        parsed = urlparse(config)
+
+        if not parsed.scheme or not parsed.netloc:
+            raise ValueError("Missing scheme or netloc")
+
+        if parsed.scheme not in SUPPORTED_PROTOCOLS:
+            raise ValueError(f"Unsupported protocol: {parsed.scheme}")
+
+        if parsed.scheme == "ss":
+            payload = parsed.netloc
+            if '@' in payload:
+                method_pass, server = payload.split('@', 1)
+                if ':' not in server:
+                    raise ValueError("Invalid server format in ss://")
+            else:
+                try:
+                    decoded = base64.urlsafe_b64decode(payload + '==').decode()
+                    if ':' not in decoded:
+                        raise ValueError("Invalid base64 payload in ss://")
+                except Exception as e:
+                    raise ValueError(f"Base64 decode failed: {e}")
+
+        if parsed.scheme in ["vmess", "vless"]:
+            if not parsed.hostname or not parsed.port:
+                raise ValueError("Missing host or port in vmess/vless")
+
+        if parsed.scheme == "trojan":
+            if not parsed.password or not parsed.hostname:
+                raise ValueError("Missing password or host in trojan")
+
+        return True
+
+    except Exception as e:
+        logger.warning(f"Invalid config: {config} — reason: {e}")
+        return False
