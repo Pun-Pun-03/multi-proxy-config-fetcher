@@ -183,40 +183,40 @@ class ConfigValidator:
 
     @classmethod
 
-    def validate_protocol_config(config: str) -> bool:
-    try:
-        parsed = urlparse(config)
+    def validate_protocol_config(cls, config: str) -> bool:
+        try:
+            parsed = urlparse(config)
 
-        if not parsed.scheme or not parsed.netloc:
-            raise ValueError("Missing scheme or netloc")
+            if not parsed.scheme or not parsed.netloc:
+                raise ValueError("Missing scheme or netloc")
 
-        if parsed.scheme not in SUPPORTED_PROTOCOLS:
-            raise ValueError(f"Unsupported protocol: {parsed.scheme}")
+            if parsed.scheme not in SUPPORTED_PROTOCOLS:
+                raise ValueError(f"Unsupported protocol: {parsed.scheme}")
 
-        if parsed.scheme == "ss":
-            payload = parsed.netloc
-            if '@' in payload:
-                method_pass, server = payload.split('@', 1)
-                if ':' not in server:
-                    raise ValueError("Invalid server format in ss://")
-            else:
-                try:
-                    decoded = base64.urlsafe_b64decode(payload + '==').decode()
-                    if ':' not in decoded:
-                        raise ValueError("Invalid base64 payload in ss://")
-                except Exception as e:
-                    raise ValueError(f"Base64 decode failed: {e}")
+            if parsed.scheme == "ss":
+                payload = parsed.netloc
+                if '@' in payload:
+                    method_pass, server = payload.split('@', 1)
+                    if ':' not in server:
+                        raise ValueError("Invalid server format in ss://")
+                else:
+                    try:
+                        decoded = base64.urlsafe_b64decode(payload + '==').decode()
+                        if ':' not in decoded:
+                            raise ValueError("Invalid base64 payload in ss://")
+                    except Exception as e:
+                        raise ValueError(f"Base64 decode failed: {e}")
 
-        if parsed.scheme in ["vmess", "vless"]:
-            if not parsed.hostname or not parsed.port:
-                raise ValueError("Missing host or port in vmess/vless")
+            if parsed.scheme in ["vmess", "vless"]:
+                if not parsed.hostname or not parsed.port:
+                    raise ValueError("Missing host or port in vmess/vless")
 
-        if parsed.scheme == "trojan":
-            if not parsed.password or not parsed.hostname:
-                raise ValueError("Missing password or host in trojan")
+            if parsed.scheme == "trojan":
+                if not parsed.password or not parsed.hostname:
+                    raise ValueError("Missing password or host in trojan")
 
-        return True
+            return True
 
-    except Exception as e:
-        logger.warning(f"Invalid config: {config} — reason: {e}")
-        return False
+        except Exception as e:
+            logger.warning(f"Invalid config: {config} — reason: {e}")
+            return 
