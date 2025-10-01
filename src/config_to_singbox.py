@@ -257,17 +257,17 @@ class ConfigToSingbox:
      "listen": "0.0.0.0",
      "listen_port": 7895,
      "domain_strategy": "prefer_ipv4",
-     "tcp_fast_open": true,
-     "sniff": true,
-     "sniff_override_destination": false
+     "tcp_fast_open": True,
+     "sniff": True,
+     "sniff_override_destination": False
     },
 {
   "type": "socks",
   "tag": "socksin",
   "listen": "127.0.0.1",
   "listen_port": 20170,
-  "sniff": false,
-  "sniff_override_destination": false
+  "sniff": False,
+  "sniff_override_destination": False
 }
   ],
 "outbounds": [
