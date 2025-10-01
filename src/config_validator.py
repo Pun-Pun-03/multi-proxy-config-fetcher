@@ -3,7 +3,21 @@ import base64
 import json
 from typing import Optional, Tuple, List
 from urllib.parse import unquote, urlparse
+def is_base64(s: str) -> bool:
+    try:
+        s = s.rstrip('=')
+        return bool(re.match(r'^[A-Za-z0-9+/\-_]*$', s))
+    except:
+        return False
 
+def decode_base64_url(s: str) -> bytes | None:
+    try:
+        s = s.replace('-', '+').replace('_', '/')
+        padding = (4 - (len(s) % 4)) % 4
+        s += '=' * padding
+        return base64.b64decode(s)
+    except Exception:
+        return None
 class ConfigValidator:
     @staticmethod
     def is_base64(s: str) -> bool:
@@ -185,12 +199,46 @@ class ConfigValidator:
                     return cls.is_vmess_config(config)
                 if protocol == 'tuic://':
                     return cls.is_tuic_config(config)
+
+                # ✅ پشتیبانی ویژه برای ss://
+                if protocol == 'ss://':
+                    after = config[len(protocol):]
+                    # حذف fragment و query
+                    after = after.split('#', 1)[0]
+                    after = after.split('?', 1)[0]
+
+                    if '@' in after:
+                        userinfo, hostpart = after.split('@', 1)
+                        candidate = unquote(userinfo)
+                        if cls.is_base64(candidate):
+                            decoded = cls.decode_base64_url(candidate)
+                            if decoded:
+                                try:
+                                    decoded_text = decoded.decode('utf-8', errors='ignore')
+                                    return ':' in decoded_text  # method:password
+                                except:
+                                    return False
+                        return ':' in candidate
+                    else:
+                        candidate = unquote(after)
+                        if cls.is_base64(candidate):
+                            decoded = cls.decode_base64_url(candidate)
+                            if decoded:
+                                try:
+                                    return ':' in decoded.decode('utf-8', errors='ignore')
+                                except:
+                                    return False
+                        parsed = urlparse('//' + after)
+                        return bool(parsed.netloc and ':' in parsed.netloc)
+
+                # برای vless و vmess و tuic مسیر قبلی کافیه
                 base64_part = config[len(protocol):]
                 decoded_url = unquote(base64_part)
                 if cls.is_base64(decoded_url) or cls.is_base64(base64_part):
                     return True
                 if cls.decode_base64_url(base64_part) or cls.decode_base64_url(decoded_url):
                     return True
+
             elif protocol in ['trojan://', 'hysteria2://', 'hy2://', 'wireguard://']:
                 parsed = urlparse(config)
                 return bool(parsed.netloc and '@' in parsed.netloc)
