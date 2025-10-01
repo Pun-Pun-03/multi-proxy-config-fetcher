@@ -180,10 +180,9 @@ class ConfigValidator:
             
         protocols = ['vmess://', 'vless://', 'ss://', 'trojan://', 'hysteria2://', 'hy2://', 'wireguard://', 'tuic://', 'ssconf://']
         return any(config.startswith(p) for p in protocols)
-
-    @classmethod
-
-    def validate_protocol_config(cls, config: str) -> bool:
+        
+    @staticmethod
+    def validate_protocol_config(config: str) -> bool:
         try:
             parsed = urlparse(config)
 
