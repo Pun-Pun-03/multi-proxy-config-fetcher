@@ -28,6 +28,8 @@ vless://6cf73960-f2f4-4208-8c20-ab31ce374a02@services.dissertationhelpspecialist
 
 vless://7bd98%65b6-5408-492c-%619f2-54776%6168%61%65b6@141.227.166.78:35728?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40mehrosaboran
 
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
+
 vless://8080748c-8053-4c25-88cc-9f9633ee3b3e@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=android&type=grpc#%40noforcedheaven@NoForcedHeaven
 
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%40ConfigV2RayNG
@@ -98,29 +100,17 @@ vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=%2Fvpnjanti
 
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=iw.arfilter.blog&fp=firefox&type=ws&sni=iw.arfilter.blog#TLS3-ALL%20%7C%20%40ArV2ray
 
-trojan://NISHIKUITAN222@104.18.252.56:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.0ms
-
-trojan://NISHIKUITAN222@104.18.87.210:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.37ms
-
-trojan://NISHIKUITAN222@104.21.109.51:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.95ms
-
-trojan://NISHIKUITAN222@104.21.234.229:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.19ms
-
-trojan://NISHIKUITAN222@104.27.37.31:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.01ms
-
-trojan://NISHIKUITAN222@188.114.97.186:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.35ms
-
-trojan://NISHIKUITAN222@188.114.97.248:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.5ms
-
-trojan://NISHIKUITAN222@190.93.244.153:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇷®️Costa Rica©️Pozos🅿️ping:28.67ms
-
-trojan://auto@104.20.19.105:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.5ms
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c%3D@83.217.9.210:443#%F0%9F%92%BC83%40ConfigV2RayNG
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c%3D@83.217.9.210:443#hope%20of%20freedom%20-%20%40anotherme_night
 
 ss://YWVzLTEyOC1nY206MTAwODY%3D@160.16.123.124:10087#Channel%20id%3A%20%40ShadowProxy66%20
+
+trojan://auto@104.20.19.105:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.96ms
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yOC42OSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAic25pIjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHUwMGFlXHVmZTBmR2VybWFueVx1MDBhOVx1ZmUwZkxpbWJ1cmcgYW4gZGVyIExhaG5cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjMxLjg3bXMifQ==
+
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJjYWJjYWEtY2FhYi1hYWJjLWNiZGEtYmNhYWNjYWFiYmNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2VcdWRkMzdcdTIwMGRcdTI2NDBcdWZlMGZcdTAwYWVcdWZlMGZcdWQ4M2VcdWRkMzdcdTIwMGRcdTI2NDBcdTAwYTlcdWZlMGZcdWQ4M2VcdWRkMzdcdTIwMGRcdTI2NDBcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjQuMzZtcyJ9
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQEhpQnllVlBOTvCfkYjinaTvuI/igI3wn5Sl4pqhIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmthdC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 

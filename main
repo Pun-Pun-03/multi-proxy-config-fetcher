@@ -56,56 +56,51 @@
                 "🇨🇦 10 - VLESS - Canada : 443",
                 "🇩🇪 11 - VLESS - Germany : 8443",
                 "🇳🇴 12 - VLESS - Norway : 35728",
-                "🇺🇸 13 - VLESS - United States : 2053",
-                "🇨🇦 14 - VLESS - Canada : 80",
-                "🇨🇿 15 - VLESS - Czechia : 12393",
-                "🇫🇷 16 - VLESS - France : 443",
-                "🇫🇷 17 - VLESS - France : 8880",
+                "🇳🇱 13 - VLESS - The Netherlands : 28495",
+                "🇺🇸 14 - VLESS - United States : 2053",
+                "🇨🇦 15 - VLESS - Canada : 80",
+                "🇨🇿 16 - VLESS - Czechia : 12393",
+                "🇵🇱 17 - VLESS - Poland : 443",
                 "🇫🇷 18 - VLESS - France : 8880",
                 "🇫🇷 19 - VLESS - France : 8880",
                 "🇫🇷 20 - VLESS - France : 8880",
                 "🇫🇷 21 - VLESS - France : 8880",
-                "🇳🇱 22 - VLESS - The Netherlands : 8880",
+                "🇫🇷 22 - VLESS - France : 8880",
                 "🇳🇱 23 - VLESS - The Netherlands : 8880",
-                "🇫🇷 24 - VLESS - France : 8880",
+                "🇳🇱 24 - VLESS - The Netherlands : 8880",
                 "🇫🇷 25 - VLESS - France : 8880",
-                "🇹🇷 26 - VLESS - Türkiye : 8880",
-                "🇫🇷 27 - VLESS - France : 8880",
+                "🇫🇷 26 - VLESS - France : 8880",
+                "🇹🇷 27 - VLESS - Türkiye : 8880",
                 "🇫🇷 28 - VLESS - France : 8880",
                 "🇫🇷 29 - VLESS - France : 8880",
-                "🇳🇱 30 - VLESS - The Netherlands : 8880",
+                "🇫🇷 30 - VLESS - France : 8880",
                 "🇳🇱 31 - VLESS - The Netherlands : 8880",
                 "🇳🇱 32 - VLESS - The Netherlands : 8880",
-                "🇫🇷 33 - VLESS - France : 8880",
+                "🇳🇱 33 - VLESS - The Netherlands : 8880",
                 "🇫🇷 34 - VLESS - France : 8880",
                 "🇫🇷 35 - VLESS - France : 8880",
-                "🇱🇹 36 - VLESS - Lithuania : 8880",
+                "🇫🇷 36 - VLESS - France : 8880",
                 "🇱🇹 37 - VLESS - Lithuania : 8880",
                 "🇱🇹 38 - VLESS - Lithuania : 8880",
                 "🇱🇹 39 - VLESS - Lithuania : 8880",
                 "🇱🇹 40 - VLESS - Lithuania : 8880",
-                "🇺🇸 41 - VLESS - United States : 80",
+                "🇱🇹 41 - VLESS - Lithuania : 8880",
                 "🇺🇸 42 - VLESS - United States : 80",
-                "🇺🇸 43 - VLESS - United States : 8880",
-                "🇨🇦 44 - VLESS - Canada : 8443",
-                "🇮🇹 45 - VLESS - Italy : 443",
-                "🇨🇦 46 - VLESS - Canada : 10004",
-                "🇨🇦 47 - VLESS - Canada : 443",
+                "🇺🇸 43 - VLESS - United States : 80",
+                "🇺🇸 44 - VLESS - United States : 8880",
+                "🇨🇦 45 - VLESS - Canada : 8443",
+                "🇮🇹 46 - VLESS - Italy : 443",
+                "🇨🇦 47 - VLESS - Canada : 10004",
+                "🇨🇦 48 - VLESS - Canada : 443",
                 "🇨🇦 1 - Trojan - Canada : 443",
-                "🇨🇦 2 - Trojan - Canada : 443",
-                "🇨🇦 3 - Trojan - Canada : 443",
-                "🇨🇦 4 - Trojan - Canada : 443",
-                "🇨🇦 5 - Trojan - Canada : 443",
-                "🇨🇦 6 - Trojan - Canada : 443",
-                "🇨🇦 7 - Trojan - Canada : 443",
-                "🇨🇷 8 - Trojan - Costa Rica : 443",
-                "🇨🇦 9 - Trojan - Canada : 443",
                 "🇩🇪 1 - VMess - Germany : 443",
-                "🇨🇦 2 - VMess - Canada : 443",
-                "🇺🇸 3 - VMess - United States : 443",
-                "🇺🇸 4 - VMess - United States : 443",
-                "🇨🇦 5 - VMess - Canada : 443",
+                "🏳️ 2 - VMess - Unknown : 8080",
+                "🇩🇪 3 - VMess - Germany : 443",
+                "🇨🇦 4 - VMess - Canada : 443",
+                "🇺🇸 5 - VMess - United States : 443",
                 "🇺🇸 6 - VMess - United States : 443",
+                "🇨🇦 7 - VMess - Canada : 443",
+                "🇺🇸 8 - VMess - United States : 443",
                 "direct"
             ]
         },
@@ -125,56 +120,51 @@
                 "🇨🇦 10 - VLESS - Canada : 443",
                 "🇩🇪 11 - VLESS - Germany : 8443",
                 "🇳🇴 12 - VLESS - Norway : 35728",
-                "🇺🇸 13 - VLESS - United States : 2053",
-                "🇨🇦 14 - VLESS - Canada : 80",
-                "🇨🇿 15 - VLESS - Czechia : 12393",
-                "🇫🇷 16 - VLESS - France : 443",
-                "🇫🇷 17 - VLESS - France : 8880",
+                "🇳🇱 13 - VLESS - The Netherlands : 28495",
+                "🇺🇸 14 - VLESS - United States : 2053",
+                "🇨🇦 15 - VLESS - Canada : 80",
+                "🇨🇿 16 - VLESS - Czechia : 12393",
+                "🇵🇱 17 - VLESS - Poland : 443",
                 "🇫🇷 18 - VLESS - France : 8880",
                 "🇫🇷 19 - VLESS - France : 8880",
                 "🇫🇷 20 - VLESS - France : 8880",
                 "🇫🇷 21 - VLESS - France : 8880",
-                "🇳🇱 22 - VLESS - The Netherlands : 8880",
+                "🇫🇷 22 - VLESS - France : 8880",
                 "🇳🇱 23 - VLESS - The Netherlands : 8880",
-                "🇫🇷 24 - VLESS - France : 8880",
+                "🇳🇱 24 - VLESS - The Netherlands : 8880",
                 "🇫🇷 25 - VLESS - France : 8880",
-                "🇹🇷 26 - VLESS - Türkiye : 8880",
-                "🇫🇷 27 - VLESS - France : 8880",
+                "🇫🇷 26 - VLESS - France : 8880",
+                "🇹🇷 27 - VLESS - Türkiye : 8880",
                 "🇫🇷 28 - VLESS - France : 8880",
                 "🇫🇷 29 - VLESS - France : 8880",
-                "🇳🇱 30 - VLESS - The Netherlands : 8880",
+                "🇫🇷 30 - VLESS - France : 8880",
                 "🇳🇱 31 - VLESS - The Netherlands : 8880",
                 "🇳🇱 32 - VLESS - The Netherlands : 8880",
-                "🇫🇷 33 - VLESS - France : 8880",
+                "🇳🇱 33 - VLESS - The Netherlands : 8880",
                 "🇫🇷 34 - VLESS - France : 8880",
                 "🇫🇷 35 - VLESS - France : 8880",
-                "🇱🇹 36 - VLESS - Lithuania : 8880",
+                "🇫🇷 36 - VLESS - France : 8880",
                 "🇱🇹 37 - VLESS - Lithuania : 8880",
                 "🇱🇹 38 - VLESS - Lithuania : 8880",
                 "🇱🇹 39 - VLESS - Lithuania : 8880",
                 "🇱🇹 40 - VLESS - Lithuania : 8880",
-                "🇺🇸 41 - VLESS - United States : 80",
+                "🇱🇹 41 - VLESS - Lithuania : 8880",
                 "🇺🇸 42 - VLESS - United States : 80",
-                "🇺🇸 43 - VLESS - United States : 8880",
-                "🇨🇦 44 - VLESS - Canada : 8443",
-                "🇮🇹 45 - VLESS - Italy : 443",
-                "🇨🇦 46 - VLESS - Canada : 10004",
-                "🇨🇦 47 - VLESS - Canada : 443",
+                "🇺🇸 43 - VLESS - United States : 80",
+                "🇺🇸 44 - VLESS - United States : 8880",
+                "🇨🇦 45 - VLESS - Canada : 8443",
+                "🇮🇹 46 - VLESS - Italy : 443",
+                "🇨🇦 47 - VLESS - Canada : 10004",
+                "🇨🇦 48 - VLESS - Canada : 443",
                 "🇨🇦 1 - Trojan - Canada : 443",
-                "🇨🇦 2 - Trojan - Canada : 443",
-                "🇨🇦 3 - Trojan - Canada : 443",
-                "🇨🇦 4 - Trojan - Canada : 443",
-                "🇨🇦 5 - Trojan - Canada : 443",
-                "🇨🇦 6 - Trojan - Canada : 443",
-                "🇨🇦 7 - Trojan - Canada : 443",
-                "🇨🇷 8 - Trojan - Costa Rica : 443",
-                "🇨🇦 9 - Trojan - Canada : 443",
                 "🇩🇪 1 - VMess - Germany : 443",
-                "🇨🇦 2 - VMess - Canada : 443",
-                "🇺🇸 3 - VMess - United States : 443",
-                "🇺🇸 4 - VMess - United States : 443",
-                "🇨🇦 5 - VMess - Canada : 443",
-                "🇺🇸 6 - VMess - United States : 443"
+                "🏳️ 2 - VMess - Unknown : 8080",
+                "🇩🇪 3 - VMess - Germany : 443",
+                "🇨🇦 4 - VMess - Canada : 443",
+                "🇺🇸 5 - VMess - United States : 443",
+                "🇺🇸 6 - VMess - United States : 443",
+                "🇨🇦 7 - VMess - Canada : 443",
+                "🇺🇸 8 - VMess - United States : 443"
             ],
             "url": "https://cp.cloudflare.com/",
             "interval": "10m",
@@ -444,7 +434,19 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 13 - VLESS - United States : 2053",
+            "tag": "🇳🇱 13 - VLESS - The Netherlands : 28495",
+            "server": "185.33.24.229",
+            "server_port": 28495,
+            "uuid": "7e296434-2d17-48d3-928d-19eaa34aecb1",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 14 - VLESS - United States : 2053",
             "server": "us1.projecthope.ir",
             "server_port": 2053,
             "uuid": "8080748c-8053-4c25-88cc-9f9633ee3b3e",
@@ -466,7 +468,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 14 - VLESS - Canada : 80",
+            "tag": "🇨🇦 15 - VLESS - Canada : 80",
             "server": "alo09.sernett.ir",
             "server_port": 80,
             "uuid": "SERVERNETT-SERVERNETT1",
@@ -478,7 +480,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇿 15 - VLESS - Czechia : 12393",
+            "tag": "🇨🇿 16 - VLESS - Czechia : 12393",
             "server": "141.227.134.24",
             "server_port": 12393,
             "uuid": "b6977b89-c21a-46b3-ac1c-6e6dac52939a",
@@ -490,7 +492,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 16 - VLESS - France : 443",
+            "tag": "🇵🇱 17 - VLESS - Poland : 443",
             "server": "xn--ktff-jt6hr36l.tencentapp.cn",
             "server_port": 443,
             "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
@@ -518,18 +520,6 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 17 - VLESS - France : 8880",
-            "server": "194.4.49.4",
-            "server_port": 8880,
-            "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇫🇷 18 - VLESS - France : 8880",
             "server": "194.4.49.4",
             "server_port": 8880,
@@ -543,7 +533,7 @@
         {
             "type": "vless",
             "tag": "🇫🇷 19 - VLESS - France : 8880",
-            "server": "195.42.233.107",
+            "server": "194.4.49.4",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
             "flow": "",
@@ -567,6 +557,18 @@
         {
             "type": "vless",
             "tag": "🇫🇷 21 - VLESS - France : 8880",
+            "server": "195.42.233.107",
+            "server_port": 8880,
+            "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 22 - VLESS - France : 8880",
             "server": "195.42.233.92",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -578,7 +580,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇳🇱 22 - VLESS - The Netherlands : 8880",
+            "tag": "🇳🇱 23 - VLESS - The Netherlands : 8880",
             "server": "45.140.147.142",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -590,7 +592,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇳🇱 23 - VLESS - The Netherlands : 8880",
+            "tag": "🇳🇱 24 - VLESS - The Netherlands : 8880",
             "server": "45.140.147.74",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -602,7 +604,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 24 - VLESS - France : 8880",
+            "tag": "🇫🇷 25 - VLESS - France : 8880",
             "server": "638937994136550920.prague-prx-dnraacl.info",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -614,7 +616,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 25 - VLESS - France : 8880",
+            "tag": "🇫🇷 26 - VLESS - France : 8880",
             "server": "638938755008237661.vienna-drc-tusacaf.info",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -626,7 +628,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇹🇷 26 - VLESS - Türkiye : 8880",
+            "tag": "🇹🇷 27 - VLESS - Türkiye : 8880",
             "server": "638941610438943596.copenhagen-prx-dnraacm.info",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -638,7 +640,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 27 - VLESS - France : 8880",
+            "tag": "🇫🇷 28 - VLESS - France : 8880",
             "server": "638943040460362238.qazvin-prx-dnraacm.info",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -650,7 +652,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 28 - VLESS - France : 8880",
+            "tag": "🇫🇷 29 - VLESS - France : 8880",
             "server": "638943929060330315.warsaw-prx-dnraacp.info",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -662,7 +664,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 29 - VLESS - France : 8880",
+            "tag": "🇫🇷 30 - VLESS - France : 8880",
             "server": "638943929060335589.warsaw-prx-dnraacp.info",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -674,20 +676,8 @@
         },
         {
             "type": "vless",
-            "tag": "🇳🇱 30 - VLESS - The Netherlands : 8880",
-            "server": "85.208.110.183",
-            "server_port": 8880,
-            "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
             "tag": "🇳🇱 31 - VLESS - The Netherlands : 8880",
-            "server": "85.209.153.82",
+            "server": "85.208.110.183",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
             "flow": "",
@@ -710,8 +700,8 @@
         },
         {
             "type": "vless",
-            "tag": "🇫🇷 33 - VLESS - France : 8880",
-            "server": "86.104.74.45",
+            "tag": "🇳🇱 33 - VLESS - The Netherlands : 8880",
+            "server": "85.209.153.82",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
             "flow": "",
@@ -723,7 +713,7 @@
         {
             "type": "vless",
             "tag": "🇫🇷 34 - VLESS - France : 8880",
-            "server": "94.131.118.142",
+            "server": "86.104.74.45",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
             "flow": "",
@@ -746,8 +736,8 @@
         },
         {
             "type": "vless",
-            "tag": "🇱🇹 36 - VLESS - Lithuania : 8880",
-            "server": "94.131.13.163",
+            "tag": "🇫🇷 36 - VLESS - France : 8880",
+            "server": "94.131.118.142",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
             "flow": "",
@@ -771,7 +761,7 @@
         {
             "type": "vless",
             "tag": "🇱🇹 38 - VLESS - Lithuania : 8880",
-            "server": "94.131.13.207",
+            "server": "94.131.13.163",
             "server_port": 8880,
             "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
             "flow": "",
@@ -806,7 +796,19 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 41 - VLESS - United States : 80",
+            "tag": "🇱🇹 41 - VLESS - Lithuania : 8880",
+            "server": "94.131.13.207",
+            "server_port": 8880,
+            "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+            "flow": "",
+            "tls": {
+                "enabled": false
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 42 - VLESS - United States : 80",
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "e1b03e71-de0e-4b3c-80c1-5b9e2173d6ff",
@@ -818,7 +820,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 42 - VLESS - United States : 80",
+            "tag": "🇺🇸 43 - VLESS - United States : 80",
             "server": "sw.modernstore3.ir",
             "server_port": 80,
             "uuid": "e323c1bf-9e9a-0336-961a-b813ac35fd4b",
@@ -830,7 +832,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇺🇸 43 - VLESS - United States : 8880",
+            "tag": "🇺🇸 44 - VLESS - United States : 8880",
             "server": "45.82.251.121",
             "server_port": 8880,
             "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
@@ -842,7 +844,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 44 - VLESS - Canada : 8443",
+            "tag": "🇨🇦 45 - VLESS - Canada : 8443",
             "server": "172.66.40.99",
             "server_port": 8443,
             "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
@@ -870,7 +872,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇮🇹 45 - VLESS - Italy : 443",
+            "tag": "🇮🇹 46 - VLESS - Italy : 443",
             "server": "5.253.43.14",
             "server_port": 443,
             "uuid": "f56bf28b-f747-421b-902c-09744f190437",
@@ -892,7 +894,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 46 - VLESS - Canada : 10004",
+            "tag": "🇨🇦 47 - VLESS - Canada : 10004",
             "server": "51.79.70.147",
             "server_port": 10004,
             "uuid": "f818a4b0-9a3f-11f0-b382-5361b9be0dd2",
@@ -910,7 +912,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 47 - VLESS - Canada : 443",
+            "tag": "🇨🇦 48 - VLESS - Canada : 443",
             "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
@@ -939,174 +941,6 @@
         {
             "type": "trojan",
             "tag": "🇨🇦 1 - Trojan - Canada : 443",
-            "server": "104.18.252.56",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.18.252.56",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇨🇦 2 - Trojan - Canada : 443",
-            "server": "104.18.87.210",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.18.87.210",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇨🇦 3 - Trojan - Canada : 443",
-            "server": "104.21.109.51",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.21.109.51",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇨🇦 4 - Trojan - Canada : 443",
-            "server": "104.21.234.229",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.21.234.229",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇨🇦 5 - Trojan - Canada : 443",
-            "server": "104.27.37.31",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.27.37.31",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇨🇦 6 - Trojan - Canada : 443",
-            "server": "188.114.97.186",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "tls": {
-                "enabled": true,
-                "server_name": "188.114.97.186",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇨🇦 7 - Trojan - Canada : 443",
-            "server": "188.114.97.248",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "tls": {
-                "enabled": true,
-                "server_name": "188.114.97.248",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇨🇷 8 - Trojan - Costa Rica : 443",
-            "server": "190.93.244.153",
-            "server_port": 443,
-            "password": "NISHIKUITAN222",
-            "tls": {
-                "enabled": true,
-                "server_name": "190.93.244.153",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "trojan",
-            "tag": "🇨🇦 9 - Trojan - Canada : 443",
             "server": "104.20.19.105",
             "server_port": 443,
             "password": "auto",
@@ -1134,6 +968,48 @@
         {
             "type": "vmess",
             "tag": "🇩🇪 1 - VMess - Germany : 443",
+            "server": "57.129.28.69",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/linkvws",
+                "headers": {
+                    "Host": "baradiha.com"
+                }
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🏳️ 2 - VMess - Unknown : 8080",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "bcabcaa-caab-aabc-cbda-bcaaccaabbcb",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇩🇪 3 - VMess - Germany : 443",
             "server": "57.129.28.215",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1162,7 +1038,7 @@
         },
         {
             "type": "vmess",
-            "tag": "🇨🇦 2 - VMess - Canada : 443",
+            "tag": "🇨🇦 4 - VMess - Canada : 443",
             "server": "148.113.153.112",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -1191,66 +1067,8 @@
         },
         {
             "type": "vmess",
-            "tag": "🇺🇸 3 - VMess - United States : 443",
+            "tag": "🇺🇸 5 - VMess - United States : 443",
             "server": "15.204.103.7",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "linkvws",
-                "headers": {
-                    "Host": "lammaland.org"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "lammaland.org",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 4 - VMess - United States : 443",
-            "server": "15.204.103.7",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "linkvws",
-                "headers": {
-                    "Host": "lammaland.org"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "lammaland.org",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 5 - VMess - Canada : 443",
-            "server": "15.235.83.228",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
@@ -1279,6 +1097,64 @@
         {
             "type": "vmess",
             "tag": "🇺🇸 6 - VMess - United States : 443",
+            "server": "15.204.103.7",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "linkvws",
+                "headers": {
+                    "Host": "lammaland.org"
+                }
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "lammaland.org",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇨🇦 7 - VMess - Canada : 443",
+            "server": "15.235.83.228",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "linkvws",
+                "headers": {
+                    "Host": "lammaland.org"
+                }
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "lammaland.org",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 8 - VMess - United States : 443",
             "server": "209.126.84.189",
             "server_port": 443,
             "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7",
