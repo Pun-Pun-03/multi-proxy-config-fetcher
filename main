@@ -91,6 +91,8 @@
                 "🇮🇹 45 - VLESS - Italy : 443",
                 "🇨🇦 46 - VLESS - Canada : 10004",
                 "🇨🇦 47 - VLESS - Canada : 443",
+                "🇨🇦 1 - Trojan - Canada : 443",
+                "🇨🇦 2 - Trojan - Canada : 443",
                 "🇩🇪 1 - VMess - Germany : 443",
                 "🇨🇦 2 - VMess - Canada : 443",
                 "🇺🇸 3 - VMess - United States : 443",
@@ -151,6 +153,8 @@
                 "🇮🇹 45 - VLESS - Italy : 443",
                 "🇨🇦 46 - VLESS - Canada : 10004",
                 "🇨🇦 47 - VLESS - Canada : 443",
+                "🇨🇦 1 - Trojan - Canada : 443",
+                "🇨🇦 2 - Trojan - Canada : 443",
                 "🇩🇪 1 - VMess - Germany : 443",
                 "🇨🇦 2 - VMess - Canada : 443",
                 "🇺🇸 3 - VMess - United States : 443",
@@ -917,6 +921,54 @@
                     "Host": "iw.arfilter.blog"
                 }
             }
+        },
+        {
+            "type": "trojan",
+            "tag": "🇨🇦 1 - Trojan - Canada : 443",
+            "server": "creativecommons.org",
+            "server_port": 443,
+            "password": "02XtoczO7V",
+            "tls": {
+                "enabled": true,
+                "server_name": "mooshali.arshiacomplus.dpdns.org",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/hishhhh123",
+                "headers": {
+                    "Host": "mooshali.arshiacomplus.dpdns.org"
+                }
+            }
+        },
+        {
+            "type": "trojan",
+            "tag": "🇨🇦 2 - Trojan - Canada : 443",
+            "server": "104.19.212.73",
+            "server_port": 443,
+            "password": "NISHIKUITAN222",
+            "tls": {
+                "enabled": true,
+                "server_name": "104.19.212.73",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
         },
         {
             "type": "vmess",
