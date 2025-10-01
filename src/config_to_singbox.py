@@ -231,66 +231,119 @@ class ConfigToSingbox:
                 return
 
             final_config = {
-                "log": {"level": "warn", "timestamp": True},
-                "dns": {
-                    "servers": [
-                        {"type": "https", "server": "8.8.8.8", "detour": "🌐 Anonymous Multi", "tag": "dns-remote"},
-                        {"type": "udp", "server": "8.8.8.8", "server_port": 53, "tag": "dns-direct"},
-                        {"type": "fakeip", "tag": "dns-fake", "inet4_range": "198.18.0.0/15", "inet6_range": "fc00::/18"}
-                    ],
-                    "rules": [
-                        {"domain": ["raw.githubusercontent.com"], "server": "dns-direct"},
-                        {"clash_mode": "Direct", "server": "dns-direct"},
-                        {"clash_mode": "Global", "server": "dns-remote"},
-                        {"type": "logical", "mode": "and", "rules": [{"rule_set": "geosite-ir"}, {"rule_set": "geoip-ir"}], "action": "route", "server": "dns-direct"},
-                        {"rule_set": ["geosite-malware", "geosite-phishing", "geosite-cryptominers", "geosite-category-ads-all"], "action": "reject"},
-                        {"disable_cache": True, "inbound": "tun-in", "query_type": ["A", "AAAA"], "server": "dns-fake"}
-                    ],
-                    "strategy": "ipv4_only",
-                    "independent_cache": True
-                },
-                "inbounds": [
-                    {"type": "tun", "tag": "tun-in", "address": ["172.18.0.1/30", "fdfe:dcba:9876::1/126"], "mtu": 9000, "auto_route": True, "strict_route": True, "endpoint_independent_nat": True, "stack": "mixed"},
-                    {"type": "mixed", "tag": "mixed-in", "listen": "0.0.0.0", "listen_port": 2080}
-                ],
-                "outbounds": [
-                    {"type": "selector", "tag": "🌐 Anonymous Multi", "outbounds": ["👽 Best Ping 🚀"] + valid_tags + ["direct"]},
-                    {"type": "direct", "tag": "direct"},
-                    {"type": "urltest", "tag": "👽 Best Ping 🚀", "outbounds": valid_tags, "url": "https://www.gstatic.com/generate_204", "interrupt_exist_connections": False, "interval": "30s"}
-                ] + outbounds,
-                "route": {
-                    "rules": [
-                        {"ip_cidr": "172.18.0.2", "action": "hijack-dns"},
-                        {"clash_mode": "Direct", "outbound": "direct"},
-                        {"clash_mode": "Global", "outbound": "🌐 Anonymous Multi"},
-                        {"action": "sniff"},
-                        {"protocol": "dns", "action": "hijack-dns"},
-                        {"network": "udp", "action": "reject"},
-                        {"rule_set": ["geosite-malware", "geosite-phishing", "geosite-cryptominers", "geosite-category-ads-all"], "action": "reject"},
-                        {"rule_set": ["geoip-malware", "geoip-phishing"], "action": "reject"},
-                        {"rule_set": ["geosite-ir"], "action": "route", "outbound": "direct"},
-                        {"rule_set": ["geoip-ir"], "action": "route", "outbound": "direct"}
-                    ],
-                    "rule_set": [
-                        {"type": "remote", "tag": "geosite-malware", "format": "binary", "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs", "download_detour": "direct"},
-                        {"type": "remote", "tag": "geoip-malware", "format": "binary", "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs", "download_detour": "direct"},
-                        {"type": "remote", "tag": "geosite-phishing", "format": "binary", "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-phishing.srs", "download_detour": "direct"},
-                        {"type": "remote", "tag": "geoip-phishing", "format": "binary", "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-phishing.srs", "download_detour": "direct"},
-                        {"type": "remote", "tag": "geosite-cryptominers", "format": "binary", "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs", "download_detour": "direct"},
-                        {"type": "remote", "tag": "geosite-category-ads-all", "format": "binary", "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs", "download_detour": "direct"},
-                        {"type": "remote", "tag": "geosite-ir", "format": "binary", "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs", "download_detour": "direct"},
-                        {"type": "remote", "tag": "geoip-ir", "format": "binary", "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs", "download_detour": "direct"}
-                    ],
-                    "auto_detect_interface": True,
-                    "default_domain_resolver": {"server": "dns-direct", "strategy": "prefer_ipv4", "rewrite_ttl": 60},
-                    "final": "🌐 Anonymous Multi"
-                },
-                "ntp": {"enabled": True, "server": "time.cloudflare.com", "server_port": 123, "domain_resolver": "dns-direct", "interval": "30m", "write_to_system": False},
-                "experimental": {
-                    "cache_file": {"enabled": True, "store_fakeip": True},
-                    "clash_api": {"external_controller": "127.0.0.1:9090", "external_ui": "ui", "external_ui_download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip", "external_ui_download_detour": "direct", "default_mode": "Rule"}
-                }
-            }
+  "log": {
+    "level": "fatal"
+  },
+  "dns": {
+    "servers": [
+      {
+        "address": "local",
+        "tag": "local",
+        "strategy": "prefer_ipv4",
+        "detour": "direct"
+      }
+    ],
+    "rules": [
+      {
+        "outbound": "any",
+        "server": "local"
+      }
+    ]
+  },
+  "inbounds": [
+    {
+     "type": "tproxy",
+      "tag": "in",
+     "listen": "0.0.0.0",
+     "listen_port": 7895,
+     "domain_strategy": "prefer_ipv4",
+     "tcp_fast_open": true,
+     "sniff": true,
+     "sniff_override_destination": false
+    },
+{
+  "type": "socks",
+  "tag": "socksin",
+  "listen": "127.0.0.1",
+  "listen_port": 20170,
+  "sniff": false,
+  "sniff_override_destination": false
+}
+  ],
+"outbounds": [
+  {
+    "type": "selector",
+    "tag": "proxy",
+    "outbounds": ["Best-Ping"] + valid_tags + ["direct"]
+  },
+  {
+    "type": "urltest",
+    "tag": "Best-Ping",
+    "outbounds": valid_tags,
+    "url": "https://cp.cloudflare.com/",
+    "interval": "10m",
+    "tolerance": 55
+  }
+] + outbounds + [
+  {
+    "type": "direct",
+    "tag": "direct"
+  },
+  {
+    "type": "block",
+    "tag": "block"
+  }
+],
+
+  "route": {
+    "rules": [
+      {
+        "network": "udp",
+        "port": [
+          19302
+        ],
+        "outbound": "proxy"
+      },
+      {
+        "rule_set": [
+          "geosite-steam"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "domain_suffix": [
+          "deserver.top"
+      ],
+        "outbound": "direct"
+      },
+      {
+        "inbound": ["socksin"],
+        "outbound": "proxy"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "geosite-steam",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/Chocolate4U/Iran-sing-box-rules@refs/heads/rule-set/geosite-steam.srs",
+        "download_detour": "direct"
+      }
+    ],
+    "final": "proxy",
+    "default_mark": 666
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "0.0.0.0:9090",
+      "external_ui": "zashboard",
+      "external_ui_download_url": "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip",
+      "external_ui_download_detour": "direct",
+      "secret": "",
+      "default_mode": "rule"
+    }
+  }
+}
 
             with open(self.output_file, 'w', encoding='utf-8') as f:
                 json.dump(final_config, f, indent=4, ensure_ascii=False)
