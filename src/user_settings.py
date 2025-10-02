@@ -7,9 +7,8 @@ SOURCE_URLS = [
    "https://t.me/s/keysOutline",
    "https://t.me/s/unlimited_v2ray_ng",
    "https://t.me/s/NETMelliAnti",
-   "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
-   "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt"
-    # Add more URLs here if you want to include additional sources.
+   "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt"
+   # Add more URLs here if you want to include additional sources.
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
