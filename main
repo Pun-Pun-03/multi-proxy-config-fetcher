@@ -182,7 +182,7 @@
                 "🇨🇦 5 - VMess - Canada : 443",
                 "🇺🇸 6 - VMess - United States : 443"
             ],
-            "url": "https://cp.cloudflare.com",
+            "url": "http://clients1.google.com/generate_204",
             "interval": "5m",
             "tolerance": 120
         },
