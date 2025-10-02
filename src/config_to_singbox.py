@@ -286,9 +286,9 @@ class ConfigToSingbox:
     "type": "urltest",
     "tag": "Best-Ping",
     "outbounds": valid_tags,
-    "url": "http://google.com/gen_204",
-    "interval": "3m",
-    "tolerance": 200
+    "url": "http://www.google.com/gen_204",
+    "interval": "10m",
+    "tolerance": 160
   }
 ] + outbounds + [
   {
