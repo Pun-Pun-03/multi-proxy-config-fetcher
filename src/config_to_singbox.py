@@ -280,7 +280,7 @@ class ConfigToSingbox:
     "type": "urltest",
     "tag": "Best-Ping",
     "outbounds": valid_tags,
-    "url": "http://cp.cloudflare.com",
+    "url": "https://cp.cloudflare.com",
     "interval": "5m",
     "tolerance": 120
   }
