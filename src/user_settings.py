@@ -3,9 +3,11 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-   "https://t.me/s/NoForcedHeaven",
-   "https://t.me/s/keysOutline",
+   "https://t.me/s/v2rayngvpn",
    "https://t.me/s/unlimited_v2ray_ng",
+   "https://t.me/s/manVPN",
+   "https://t.me/s/entryNET",
+   "https://t.me/s/V2raysCollector",
    "https://t.me/s/NETMelliAnti",
    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt"
    # Add more URLs here if you want to include additional sources.
