@@ -176,15 +176,17 @@ class ConfigValidator:
             
         protocols = ['vmess://', 'vless://', 'ss://', 'trojan://', 'hysteria2://', 'hy2://', 'wireguard://', 'tuic://', 'ssconf://']
         return any(config.startswith(p) for p in protocols)
-
+        
     @classmethod
     def validate_protocol_config(cls, config: str, protocol: str) -> bool:
         try:
             if protocol in ['vmess://', 'vless://', 'ss://', 'tuic://']:
                 if protocol == 'vmess://':
                     return cls.is_vmess_config(config)
+
                 if protocol == 'tuic://':
                     return cls.is_tuic_config(config)
+
                 if protocol == 'ss://':
                     after = config[len(protocol):]
                     # حذف fragment و query
@@ -217,7 +219,27 @@ class ConfigValidator:
                         parsed = urlparse('//' + after)
                         return bool(parsed.netloc and ':' in parsed.netloc)
 
-                # vless/vmess بقیه
+                if protocol == 'vless://':
+                    after = config[len(protocol):]
+                    # حذف fragment و query
+                    after = after.split('#', 1)[0]
+                    after = after.split('?', 1)[0]
+
+                    # حالت Base64
+                    if cls.is_base64(after):
+                        decoded = cls.decode_base64_url(after)
+                        if decoded:
+                            try:
+                                decoded_text = decoded.decode('utf-8', errors='ignore')
+                                return decoded_text.startswith('{') or ':' in decoded_text
+                            except:
+                                return False
+
+                    # حالت URL باز (uuid@host:port)
+                    parsed = urlparse(config)
+                    return bool(parsed.netloc and ':' in parsed.netloc and '@' in parsed.netloc)
+
+                # حالت عمومی (قبلی)
                 base64_part = config[len(protocol):]
                 decoded_url = unquote(base64_part)
                 if cls.is_base64(decoded_url) or cls.is_base64(base64_part):
@@ -228,8 +250,10 @@ class ConfigValidator:
             elif protocol in ['trojan://', 'hysteria2://', 'hy2://', 'wireguard://']:
                 parsed = urlparse(config)
                 return bool(parsed.netloc and '@' in parsed.netloc)
+
             elif protocol == 'ssconf://':
                 return True
+
             return False
         except:
             return False
