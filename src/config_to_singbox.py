@@ -217,18 +217,24 @@ class ConfigToSingbox:
             counters = {"VLESS": 1, "Trojan": 1, "VMess": 1, "SS": 1, "Hysteria2": 1}
             protocol_map = {'vless': 'VLESS', 'trojan': 'Trojan', 'vmess': 'VMess', 'ss': 'SS', 'hysteria2': 'Hysteria2', 'hy2': 'Hysteria2'}
 
-            for config in configs:
-                protocol_key = config.split('://')[0].lower()
-                protocol_name = protocol_map.get(protocol_key)
-                if protocol_name:
-                    converted = self.convert_to_singbox(config, counters[protocol_name], protocol_name)
-                    if converted:
-                        outbounds.append(converted)
-                        valid_tags.append(converted['tag'])
-                        counters[protocol_name] += 1
-            if not outbounds:
-                print("No valid configurations found.")
-                return
+for config in configs:
+    protocol_key = config.split('://')[0].lower()
+    protocol_name = protocol_map.get(protocol_key)
+    if protocol_name:
+        converted = self.convert_to_singbox(config, counters[protocol_name], protocol_name)
+        if converted:
+            tag = converted['tag']
+            if "🇺🇸" in tag or "🇨🇦" in tag or "🏳️" in tag:
+                continue 
+
+            outbounds.append(converted)
+            valid_tags.append(converted['tag'])
+            counters[protocol_name] += 1
+
+if not outbounds:
+    print("No valid configurations found.")
+    return
+
 
             final_config = {
   "log": {
