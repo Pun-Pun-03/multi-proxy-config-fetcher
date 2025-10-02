@@ -191,7 +191,6 @@ class ConfigFetcher:
 
     def process_config(self, config: str, channel: ChannelConfig) -> List[str]:
         processed_configs = []
-        config = config.split("#", 1)[0].strip()
         
         if config.startswith('hy2://'):
             config = self.validator.normalize_hysteria2_protocol(config)
@@ -304,15 +303,11 @@ def save_configs(configs: List[str], config: ProxyConfig):
     try:
         os.makedirs(os.path.dirname(config.OUTPUT_FILE), exist_ok=True)
         with open(config.OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            header = """//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
-
+            header = """//p1
 """
             f.write(header)
             for config in configs:
+                config = config.split("#", 1)[0].strip()
                 f.write(config + '\n\n')
         logger.info(f"Successfully saved {len(configs)} configs to {config.OUTPUT_FILE}")
     except Exception as e:
