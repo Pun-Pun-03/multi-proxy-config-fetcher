@@ -191,6 +191,7 @@ class ConfigFetcher:
 
     def process_config(self, config: str, channel: ChannelConfig) -> List[str]:
         processed_configs = []
+        config = config.split("#", 1)[0].strip()
         
         if config.startswith('hy2://'):
             config = self.validator.normalize_hysteria2_protocol(config)
