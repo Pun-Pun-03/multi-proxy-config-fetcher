@@ -16,11 +16,15 @@ vless://1f90ea31-15a1-4896-bfff-c83f74ce0f7e@141.227.136.183:15819?security=&enc
 
 vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=%2Fwsv%2F48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=chrome&type=ws&sni=banana.fullmargintraders.com#%F0%9F%AB%9254%40ConfigV2RayNG
 
+vless://5342%61980-50%614-4d%61%61-9c45-%6583f2%65b%61b024@141.227.174.221:18409?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40mehrosaboran
+
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@JOIN-RAIV2MMR-TELEGRAM.koyeb.app:443?path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=firefox&type=ws#%5BJOIN%5Dt.me%2FRaiv2mmr%F0%9F%92%AF
 
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?path=%2Fwsv%2F6c11247b-6078-461a-93d5-22e4df284e6d&security=tls&encryption=none&host=mirror.fullmargintraders.com&type=ws&sni=mirror.fullmargintraders.com#%F0%9F%87%A9%F0%9F%87%AA%5Bt.me%2Fvaddress%5D%20vless-DE
+
+vless://7bd98%65b6-5408-492c-%619f2-54776%6168%61%65b6@141.227.166.78:35728?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40mehrosaboran
 
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
 
@@ -74,27 +78,13 @@ vless://f56bf28b-f747-421b-902c-09744f190437@5.253.43.14:443?security=reality&en
 
 vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=%2Fvpnjantit&security=&encryption=none&type=ws#%F0%9F%AA%AD72%40ConfigV2RayNG
 
-trojan://NISHIKUITAN222@104.18.144.129:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.64ms
-
-trojan://NISHIKUITAN222@104.19.214.36:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.89ms
-
-trojan://NISHIKUITAN222@104.24.149.225:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.72ms
-
-trojan://NISHIKUITAN222@104.25.100.134:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.04ms
-
-trojan://NISHIKUITAN222@104.25.171.225:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.07ms
-
-trojan://NISHIKUITAN222@188.114.99.239:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Washington D.C.🅿️ping:27.46ms
-
-trojan://NISHIKUITAN222@190.93.244.229:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇷®️Costa Rica©️Pozos🅿️ping:28.18ms
-
-trojan://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&type=ws&sni=pardazeshvpn-tg18.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=pardazeshvpn-tg18.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.68ms
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c%3D@83.217.9.210:443#hope%20of%20freedom%20-%20%40anotherme_night
 
 ss://YWVzLTEyOC1nY206MTAwODY%3D@160.16.123.124:10087#Channel%20id%3A%20%40ShadowProxy66%20
 
-vmess://eyJ2IjogMiwgImFkZCI6ICI5NC4xMzEuMTExLjE5NSIsICJwb3J0IjogNDQ0LCAiaWQiOiAiOGJiZDlkOGMtNDgxYi00OWI2LTgwMjktZTQ2NDhmMmVhMzFkIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICI5NC4xMzEuMTExLjE5NSIsICJwYXRoIjogIi8iLCAidGxzIjogZmFsc2UsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFcdTAwYWVcdWZlMGZHZXJtYW55XHUwMGE5XHVmZTBmRnJhbmtmdXJ0IGFtIE1haW5cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjU1LjU3bXMifQ==
+trojan://NISHIKUITAN222@104.19.214.36:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.01ms
+
+vmess://eyJhZGQiOiAiMTAzLjIyOS4xMjcuMjEyIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI5M2U0NjNiNi1hZjJiLTQzN2ItOTBmOC1kYmExNzJhNzBkMTEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogMzIzODEsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHUwMGFlXHVmZTBmSG9uZyBLb25nXHUwMGE5XHVmZTBmU2FuIFBvIEtvbmdcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjUxOS42NG1zIn0=
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQEhpQnllVlBOTvCfkYjinaTvuI/igI3wn5Sl4pqhIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmthdC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
