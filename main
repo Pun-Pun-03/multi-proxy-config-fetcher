@@ -94,7 +94,7 @@
                 "🇹🇷 48 - VLESS - Turkey : 7033",
                 "🇬🇧 49 - VLESS - United Kingdom : 7035",
                 "🇫🇷 50 - VLESS - France : 7033",
-                "🇳🇱 51 - VLESS - The Netherlands : 7035",
+                "🇳🇱 51 - VLESS - Netherlands : 7035",
                 "🇮🇹 52 - VLESS - Italy : 7035",
                 "🇦🇪 53 - VLESS - United Arab Emirates : 7035",
                 "🇺🇸 54 - VLESS - United States : 80",
@@ -103,14 +103,6 @@
                 "🇳🇱 57 - VLESS - The Netherlands : 2560",
                 "🇮🇹 58 - VLESS - Italy : 443",
                 "🇨🇦 59 - VLESS - Canada : 10004",
-                "🇦🇷 1 - SS - Argentina : 8443",
-                "🇫🇮 2 - SS - Finland : 64519",
-                "🇹🇷 3 - SS - Türkiye : 18685",
-                "🇭🇰 4 - SS - Hong Kong : 63342",
-                "🇺🇸 5 - SS - United States : 443",
-                "🇸🇪 6 - SS - Sweden : 37538",
-                "🇷🇺 7 - SS - Russia : 41968",
-                "🇻🇳 8 - SS - Vietnam : 38388",
                 "🇩🇪 1 - VMess - Germany : 443",
                 "🇨🇦 2 - VMess - Canada : 443",
                 "🇺🇸 3 - VMess - United States : 443",
@@ -174,7 +166,7 @@
                 "🇹🇷 48 - VLESS - Turkey : 7033",
                 "🇬🇧 49 - VLESS - United Kingdom : 7035",
                 "🇫🇷 50 - VLESS - France : 7033",
-                "🇳🇱 51 - VLESS - The Netherlands : 7035",
+                "🇳🇱 51 - VLESS - Netherlands : 7035",
                 "🇮🇹 52 - VLESS - Italy : 7035",
                 "🇦🇪 53 - VLESS - United Arab Emirates : 7035",
                 "🇺🇸 54 - VLESS - United States : 80",
@@ -183,14 +175,6 @@
                 "🇳🇱 57 - VLESS - The Netherlands : 2560",
                 "🇮🇹 58 - VLESS - Italy : 443",
                 "🇨🇦 59 - VLESS - Canada : 10004",
-                "🇦🇷 1 - SS - Argentina : 8443",
-                "🇫🇮 2 - SS - Finland : 64519",
-                "🇹🇷 3 - SS - Türkiye : 18685",
-                "🇭🇰 4 - SS - Hong Kong : 63342",
-                "🇺🇸 5 - SS - United States : 443",
-                "🇸🇪 6 - SS - Sweden : 37538",
-                "🇷🇺 7 - SS - Russia : 41968",
-                "🇻🇳 8 - SS - Vietnam : 38388",
                 "🇩🇪 1 - VMess - Germany : 443",
                 "🇨🇦 2 - VMess - Canada : 443",
                 "🇺🇸 3 - VMess - United States : 443",
@@ -1018,7 +1002,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇳🇱 51 - VLESS - The Netherlands : 7035",
+            "tag": "🇳🇱 51 - VLESS - Netherlands : 7035",
             "server": "holnether.gojustore.site",
             "server_port": 7035,
             "uuid": "e265fc78-e269-46b2-9b6a-85f573dab3d5",
@@ -1173,70 +1157,6 @@
                     "Host": "51.79.70.147"
                 }
             }
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇷 1 - SS - Argentina : 8443",
-            "server": "190.103.176.123",
-            "server_port": 8443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "8taL4CnyG3SH5EEs7PE75c"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇫🇮 2 - SS - Finland : 64519",
-            "server": "83.147.216.70",
-            "server_port": 64519,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9z4XoS0TfzxNsSqBVAWt7N"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇹🇷 3 - SS - Türkiye : 18685",
-            "server": "62.60.233.220",
-            "server_port": 18685,
-            "method": "chacha20-ietf-poly1305",
-            "password": "wh2K0qVVN6fTZAJFsbu6Dq"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇭🇰 4 - SS - Hong Kong : 63342",
-            "server": "217.60.38.83",
-            "server_port": 63342,
-            "method": "chacha20-ietf-poly1305",
-            "password": "LJezR1tVTLhABxgQfhZJUO"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 5 - SS - United States : 443",
-            "server": "104.192.227.162",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Nj6hLqS63xxQwJkGaSIsxD"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇪 6 - SS - Sweden : 37538",
-            "server": "78.40.117.109",
-            "server_port": 37538,
-            "method": "chacha20-ietf-poly1305",
-            "password": "RP767jpZVarzQ0iI0vbTuA"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇷🇺 7 - SS - Russia : 41968",
-            "server": "212.192.14.226",
-            "server_port": 41968,
-            "method": "chacha20-ietf-poly1305",
-            "password": "YQFmjKaamSrPqVy1jtXEX4"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇻🇳 8 - SS - Vietnam : 38388",
-            "server": "103.186.155.63",
-            "server_port": 38388,
-            "method": "aes-256-cfb",
-            "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
         },
         {
             "type": "vmess",
