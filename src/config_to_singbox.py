@@ -287,8 +287,8 @@ class ConfigToSingbox:
     "tag": "Best-Ping",
     "outbounds": valid_tags,
     "url": "http://www.google.com/gen_204",
-    "interval": "10m",
-    "tolerance": 160
+    "interval": "6m",
+    "tolerance": 60
   }
 ] + outbounds + [
   {
