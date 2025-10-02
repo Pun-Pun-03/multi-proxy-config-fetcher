@@ -2,7 +2,7 @@ name: Update Proxy Configs
 
 on:
   schedule:
-    - cron: '0/45 * * * *'
+    - cron: '0 0/8 * * *'
   workflow_dispatch:
 
 permissions:
