@@ -288,7 +288,7 @@ class ConfigToSingbox:
     "outbounds": valid_tags,
     "url": "http://www.google.com/gen_204",
     "interval": "6m",
-    "tolerance": 60
+    "tolerance": 80
   }
 ] + outbounds + [
   {
