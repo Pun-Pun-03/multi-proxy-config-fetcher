@@ -280,8 +280,8 @@ class ConfigToSingbox:
     "type": "urltest",
     "tag": "Best-Ping",
     "outbounds": valid_tags,
-    "url": "http://detectportal.firefox.com/success.txt",
-    "interval": "3m",
+    "url": "http://cp.cloudflare.com",
+    "interval": "5m",
     "tolerance": 120
   }
 ] + outbounds + [
