@@ -265,7 +265,7 @@ class ConfigToSingbox:
      "domain_strategy": "prefer_ipv4",
      "tcp_fast_open": True,
      "sniff": True,
-     "sniff_override_destination": False
+     "sniff_override_destination": True
     },
 {
   "type": "socks",
@@ -312,6 +312,7 @@ class ConfigToSingbox:
       },
       {
         "rule_set": [
+          "geosite-ir",
           "geosite-steam"
         ],
         "outbound": "direct"
@@ -328,6 +329,13 @@ class ConfigToSingbox:
       }
     ],
     "rule_set": [
+              {
+        "type": "remote",
+        "tag": "geosite-ir",
+        "format": "binary",
+        "url": "https://cdn.jsdelivr.net/gh/Chocolate4U/Iran-sing-box-rules@rule-set/geosite-ir.srs",
+        "download_detour": "direct"
+      },
       {
         "type": "remote",
         "tag": "geosite-steam",
