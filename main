@@ -18,7 +18,7 @@
             "domain_strategy": "prefer_ipv4",
             "tcp_fast_open": true,
             "sniff": true,
-            "sniff_override_destination": true
+            "sniff_override_destination": false
         },
         {
             "type": "socks",
@@ -59,8 +59,8 @@
                 "🇬🇧 7 - Trojan - United Kingdom : 8443",
                 "🇬🇧 8 - Trojan - United Kingdom : 8443"
             ],
-            "url": "http://cp.cloudflare.com/generate_204",
-            "interval": "30m",
+            "url": "http://cp.cloudflare.com/",
+            "interval": "15m",
             "tolerance": 120
         },
         {
