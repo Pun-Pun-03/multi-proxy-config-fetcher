@@ -243,12 +243,10 @@ class ConfigToSingbox:
   "dns": {
     "servers": [
       {
-        "address": "local",
-        "tag": "local",
-        "strategy": "prefer_ipv4",
-        "detour": "direct"
+        "type": "local"
       }
-    ],
+    ]
+  },
     "rules": [
       {
         "outbound": "any",
@@ -265,7 +263,7 @@ class ConfigToSingbox:
      "domain_strategy": "prefer_ipv4",
      "tcp_fast_open": True,
      "sniff": True,
-     "sniff_override_destination": True
+     "sniff_override_destination": False
     },
 {
   "type": "socks",
@@ -286,8 +284,8 @@ class ConfigToSingbox:
     "type": "urltest",
     "tag": "Best-Ping",
     "outbounds": valid_tags,
-    "url": "http://cp.cloudflare.com/generate_204",
-    "interval": "30m",
+    "url": "http://cp.cloudflare.com/",
+    "interval": "15m",
     "tolerance": 120
   }
 ] + outbounds + [
@@ -333,14 +331,14 @@ class ConfigToSingbox:
         "type": "remote",
         "tag": "geosite-ir",
         "format": "binary",
-        "url": "https://cdn.jsdelivr.net/gh/Chocolate4U/Iran-sing-box-rules@rule-set/geosite-ir.srs",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/refs/heads/rule-set/geosite-ir.srs",
         "download_detour": "direct"
       },
       {
         "type": "remote",
         "tag": "geosite-steam",
         "format": "binary",
-        "url": "https://cdn.jsdelivr.net/gh/Chocolate4U/Iran-sing-box-rules@refs/heads/rule-set/geosite-steam.srs",
+        "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/refs/heads/rule-set/geosite-steam.srs",
         "download_detour": "direct"
       }
     ],
